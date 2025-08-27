@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Chemical Engineer VU'27"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,19 +8,13 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Ava Hatfield is a chemical engineering student with a passion for bridging technical problem-solving and business strategy. Her areas of focus include chemical engineering, digital fabrication, and finance, with an emphasis on sustainable and innovative solutions."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    alt: "Syringe Pump"
+    title: "Syringe Pump Design and Assembly"
+    excerpt: "Designed and built a functioning syringe pump using Fusion 360, applying rapid prototyping and teamwork skills to deliver a precise and reliable device."
+
 ---
 
 {% include feature_row %}
