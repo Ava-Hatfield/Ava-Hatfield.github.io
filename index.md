@@ -1,5 +1,5 @@
 ---
-title: "Chemical Engineer VU'27"
+title: "Ava Hatfield"
 layout: splash
 header:
   overlay_color: "#000"
