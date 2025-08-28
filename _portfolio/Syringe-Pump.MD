@@ -1,6 +1,5 @@
 ---
 
-markdown: kramdown
 title: "Syringe Pump"
 excerpt: "DIY syringe pump capable of 1 uL / min flow rate up to 10 mL / min"
 header:
