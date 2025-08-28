@@ -4,19 +4,79 @@ excerpt: "DIY syringe pump capable of 1 uL / min flow rate up to 10 mL / min"
 header:
   image: /assets/img/Syringe-Thumbnail.png
   teaser: /assets/img/Syringe-Thumbnail.png
-gallery:
+syringe-gallery:
   - image_path: assets/img/Syringe-3D-Printing.png
   - image_path: assets/img/simplified-wiring.png
+  - image_path: assets/img/syringe-3D-rending.png
    
 ---
 
-# Features
+# Syringe Pump
 
-* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
-* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
-* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+The syringe pump is a compact device designed to steadily deliver precise volumes of liquid.  
+Applications include healthcare (accurate drug delivery) and scientific research (controlled reagent addition).  
 
-# CAD Model
+**Key Features:**
+- **Adjustable Flow Rate:** 1 µL/min up to 10 mL/min, controlled in Arduino.  
+- **LED Status Indicators:** Green = running, Yellow = paused, Red = syringe empty.  
+- **Single-Button Control:** Simplifies operation for quick start/pause.  
+- **Safety Measures:** Limit switch prevents over-travel; enclosed electronics reduce contamination risk.  
+- **Modular Design:** 3D-printed supports allow syringes of varying diameters to be used interchangeably.  
+- **Cost-Effective Fabrication:** Most parts printed in PLA; high-heat components in ABS.  
+
+# Interactive CAD Model
+
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e046d047d8a8a1c5f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+
+# Syringe Pump Gallery
+
+{% include gallery id="syringe-gallery" %}
+
+# Off-the-Shelf Parts
+
+| Part                        | Quantity | Notes                                 |
+|-----------------------------|----------|---------------------------------------|
+| Stepper Motor               | 1        | NEMA 17                               |
+| Lead Screw (2 mm pitch)     | 1        | Provides precise motion, slower speed |
+| Limit Switch                | 1        | Stops motion when syringe is empty    |
+| Push Button                 | 1        | Start/pause control                   |
+| RGB LED                     | 1        | Status indication                     |
+| Power Supply + Wiring       | 1        | Protected against liquid exposure     |
+| Screws, Nuts, Couplers      | Several  | For assembly                          |
+| Arduino + Breadboard        | 1        | Microcontroller for motor control     |
+
+# 3D Printed Parts
+
+| Part                      | Material | Function                                       |
+|---------------------------|----------|------------------------------------------------|
+| Motor Mounting Plate      | ABS      | Heat resistant; holds stepper motor            |
+| Carriage                  | PLA      | Transfers motor motion to syringe plunger      |
+| End Support (closed)      | PLA      | Holds back of syringe securely                 |
+| Custom End Support (tip)  | PLA      | Holds syringe tip at correct height            |
+| Enclosure (housing)       | PLA      | Protects circuitry; water-resistant design     |
+
+# Arduino Code
+
+# How to Operate the Syringe Pump
+
+1. **Prepare Setup**  
+   - Upload Arduino code to the microcontroller.  
+   - Load syringe with desired liquid.  
+
+2. **Insert Syringe**  
+   - Rest syringe tip on front support.  
+   - Slide plunger into back support.  
+
+3. **Adjust Carriage**  
+   - Twist coupler until carriage rests against plunger.  
+
+4. **Input Parameters**  
+   - Enter syringe internal diameter (mm) and desired flow rate (mL/min).  
+
+5. **Run Pump**  
+   - Press the button once to start.  
+   - LED color indicates status: Green = running, Yellow = paused, Red = empty.  
+
+
+
 
