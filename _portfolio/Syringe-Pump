@@ -24,13 +24,19 @@ Applications include healthcare (accurate drug delivery) and scientific research
 - **Modular Design:** 3D-printed supports allow syringes of varying diameters to be used interchangeably.  
 - **Cost-Effective Fabrication:** Most parts printed in PLA; high-heat components in ABS.  
 
+---
+
 # Interactive CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e046d047d8a8a1c5f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+---
+
 # Syringe Pump Gallery
 
 {% include gallery id="syringe-gallery" %}
+
+---
 
 # Off-the-Shelf Parts
 
@@ -45,6 +51,8 @@ Applications include healthcare (accurate drug delivery) and scientific research
 | Screws, Nuts, Couplers      | Several  | For assembly                          |
 | Arduino + Breadboard        | 1        | Microcontroller for motor control     |
 
+---
+
 # 3D Printed Parts
 
 | Part                      | Material | Function                                       |
@@ -55,7 +63,11 @@ Applications include healthcare (accurate drug delivery) and scientific research
 | Custom End Support (tip)  | PLA      | Holds syringe tip at correct height            |
 | Enclosure (housing)       | PLA      | Protects circuitry; water-resistant design     |
 
+---
+
 # Arduino Code
+
+---
 
 # How to Operate the Syringe Pump
 
@@ -77,6 +89,5 @@ Applications include healthcare (accurate drug delivery) and scientific research
    - Press the button once to start.  
    - LED color indicates status: Green = running, Yellow = paused, Red = empty.  
 
-
-
+---
 
