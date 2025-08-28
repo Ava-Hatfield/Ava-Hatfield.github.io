@@ -1,13 +1,5 @@
 ---
 
-title: "About Ava Hatfield"
-
----
-
-## About Ava
-
----
-
 title: "Syringe Pump"
 excerpt: "DIY syringe pump capable of 1 uL / min flow rate up to 10 mL / min"
 header:
@@ -17,6 +9,7 @@ gallery:
   - image_path: assets/img/Syringe-3D-Printing.png
   - image_path: assets/img/simplified-wiring.png
   - image_path: assets/img/syringe-3D-rending.png
+
 ---
 
 # Syringe Pump
