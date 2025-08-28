@@ -1,14 +1,14 @@
 ---
+
 title: "Syringe Pump"
 excerpt: "DIY syringe pump capable of 1 uL / min flow rate up to 10 mL / min"
 header:
   image: /assets/img/Syringe-Thumbnail.png
   teaser: /assets/img/Syringe-Thumbnail.png
-syringe-gallery:
+gallery:
   - image_path: assets/img/Syringe-3D-Printing.png
   - image_path: assets/img/simplified-wiring.png
   - image_path: assets/img/syringe-3D-rending.png
-   
 ---
 
 # Syringe Pump
@@ -16,13 +16,13 @@ syringe-gallery:
 The syringe pump is a compact device designed to steadily deliver precise volumes of liquid.  
 Applications include healthcare (accurate drug delivery) and scientific research (controlled reagent addition).  
 
-**Key Features:**
-- **Adjustable Flow Rate:** 1 µL/min up to 10 mL/min, controlled in Arduino.  
-- **LED Status Indicators:** Green = running, Yellow = paused, Red = syringe empty.  
-- **Single-Button Control:** Simplifies operation for quick start/pause.  
-- **Safety Measures:** Limit switch prevents over-travel; enclosed electronics reduce contamination risk.  
-- **Modular Design:** 3D-printed supports allow syringes of varying diameters to be used interchangeably.  
-- **Cost-Effective Fabrication:** Most parts printed in PLA; high-heat components in ABS.  
+# Key Features:
+- Adjustable Flow Rate: 1 µL/min up to 10 mL/min, controlled in Arduino.  
+- LED Status Indicators: Green = running, Yellow = paused, Red = syringe empty.  
+- Single-Button Control: Simplifies operation for quick start/pause.  
+- Safety Measures: Limit switch prevents over-travel; enclosed electronics reduce contamination risk.  
+- Modular Design: 3D-printed supports allow syringes of varying diameters to be used interchangeably.  
+- Cost-Effective Fabrication: Most parts printed in PLA; high-heat components in ABS.  
 
 ---
 
@@ -34,7 +34,7 @@ Applications include healthcare (accurate drug delivery) and scientific research
 
 # Syringe Pump Gallery
 
-{% include gallery id="syringe-gallery" %}
+{% include gallery %}
 
 ---
 
@@ -71,21 +71,21 @@ Applications include healthcare (accurate drug delivery) and scientific research
 
 # How to Operate the Syringe Pump
 
-1. **Prepare Setup**  
+1. Prepare Setup  
    - Upload Arduino code to the microcontroller.  
    - Load syringe with desired liquid.  
 
-2. **Insert Syringe**  
+2. Insert Syringe  
    - Rest syringe tip on front support.  
    - Slide plunger into back support.  
 
-3. **Adjust Carriage**  
+3. Adjust Carriage  
    - Twist coupler until carriage rests against plunger.  
 
-4. **Input Parameters**  
+4. Input Parameters  
    - Enter syringe internal diameter (mm) and desired flow rate (mL/min).  
 
-5. **Run Pump**  
+5. Run Pump  
    - Press the button once to start.  
    - LED color indicates status: Green = running, Yellow = paused, Red = empty.  
 
