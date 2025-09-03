@@ -207,6 +207,7 @@ defaults:
       author_profile: false
       share: true
       classes: wide
+      show_excerpts: true 
 
 
 # Sass/SCSS
