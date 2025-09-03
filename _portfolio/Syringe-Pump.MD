@@ -42,16 +42,22 @@ Applications include healthcare (accurate drug delivery) and scientific research
 
 # Off-the-Shelf Parts
 
-| Part                        | Quantity | Notes                                 |
-|-----------------------------|----------|---------------------------------------|
-| Stepper Motor               | 1        | NEMA 17                               |
-| Lead Screw (2 mm pitch)     | 1        | Provides precise motion, slower speed |
-| Limit Switch                | 1        | Stops motion when syringe is empty    |
-| Push Button                 | 1        | Start/pause control                   |
-| RGB LED                     | 1        | Status indication                     |
-| Power Supply + Wiring       | 1        | Protected against liquid exposure     |
-| Screws, Nuts, Couplers      | Several  | For assembly                          |
-| Arduino + Breadboard        | 1        | Microcontroller for motor control     |
+| Item Description                                                | Quantity |
+|-----------------------------------------------------------------|----------|
+| 250 mm lead screw with 2 mm pitch and 2 mm lead                 | 1        |
+| 250 mm lead screw with 2 mm pitch and 8 mm lead                 | 1        |
+| 1/4" x 8 mm Flexible Coupling                                   | 1        |
+| 200 mm linear rod with 8 mm diameter                            | 2        |
+| LM8UU Linear bearing for 8 mm diameter rod                      | 2        |
+| 2040 Aluminum Extrusion 1' Length                               | 1        |
+| Nema 17 Stepper Motor                                           | 1        |
+| MEAN WELL RQ-65D AC-DC Power Supply Quad (5V, 12V, 24V, 12V, 4A)| 1        |
+| Arduino Uno                                                     | 1        |
+| A4988 Stepper Driver                                            | 1        |
+| Small Breadboard                                                | 1        |
+| Panel Mount Latching Push Buttons                               | 1        |
+| Limit Switch                                                    | 1        |
+| RGB Common Cathode LED (Supplied by group)                      | 1        |
 
 ---
 
@@ -62,6 +68,7 @@ Applications include healthcare (accurate drug delivery) and scientific research
 | Motor Mounting Plate      | ABS      | Heat resistant; holds stepper motor            |
 | Carriage                  | PLA      | Transfers motor motion to syringe plunger      |
 | End Support (closed)      | PLA      | Holds back of syringe securely                 |
+| End Support (Syringe)     | PLA      | Holds syringe end at correct height            |
 | Custom End Support (tip)  | PLA      | Holds syringe tip at correct height            |
 | Enclosure (housing)       | PLA      | Protects circuitry; water-resistant design     |
 
