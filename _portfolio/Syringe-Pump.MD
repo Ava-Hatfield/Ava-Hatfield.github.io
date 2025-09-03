@@ -3,7 +3,7 @@
 title: "Syringe Pump"
 excerpt: "Syringe pump with 3D printed components capable operating syringes of varying size at varying flow rates"
 layout: single
-classes: wide
+classes: full
 header:
   image: /assets/img/Syringe-Thumbnail.png
   teaser: /assets/img/Syringe-Thumbnail.png
