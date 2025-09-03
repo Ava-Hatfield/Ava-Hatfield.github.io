@@ -98,7 +98,7 @@ Applications include healthcare (accurate drug delivery) and scientific research
 
 5. Run Pump  
    * Press the button once to start.  
-   * LED color indicates status: Green = ready, Yellow = running, Red = run complete.  
+   * LED color indicates status: Green = running, Yellow = paused, Red = out of liquid.  
 
 ---
 
