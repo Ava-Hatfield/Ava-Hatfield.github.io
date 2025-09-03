@@ -13,7 +13,7 @@ feature_row:
   - image_path: assets/img/Syringe-Thumbnail.png
     alt: "Syringe Pump"
     title: "Syringe Pump Design and Assembly"
-    excerpt: "Designed and built a functioning syringe pump using Fusion 360, applying rapid prototyping and teamwork skills to deliver a precise and reliable device."
+    excerpt: "Delivers precise liquid volumes."
 
 ---
 
