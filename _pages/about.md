@@ -9,11 +9,6 @@ classes: wide
 
 I am a junior at Vanderbilt University majoring in Chemical Engineering with minors in Chemistry, Digital Fabrication, and Engineering Management. I am passionate about bridging technical problem-solving and business strategy, and I look forward to applying my quantitative and interpersonal skills to a career in finance on a team that values my unique skill set.
 
-* Vanderbilt University
-  * Bachelor of Engineering in Chemical Engineering
-  * Minors in Chemistry, Engineering Management, and Digital Fabrication
-  * Expected Graduation in May of 2027
-
 ## Education
 
 ### Vanderbilt University
