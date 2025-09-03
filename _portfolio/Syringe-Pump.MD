@@ -12,18 +12,15 @@ gallery:
 
 ---
 
-# Syringe Pump
-
-The syringe pump is a compact device designed to steadily deliver precise volumes of liquid.  
-Applications include healthcare (accurate drug delivery) and scientific research (controlled reagent addition).  
+The syringe pump is a compact device designed to steadily deliver precise volumes of liquid. Applications include healthcare (accurate drug delivery) and scientific research (controlled reagent addition).  
 
 # Key Features:
 
-* Adjustable Flow Rate: 1 µL/min up to 10 mL/min, controlled in Arduino.  
+* Adjustable Flow Rate: theoretical maximum flow rate of 60.26 mL/min (5 mL syringe) and 103.96 mL/min (20 mL syringe), controlled in Arduino.  
 * LED Status Indicators: Green = running, Yellow = paused, Red = syringe empty.  
 * Single-Button Control: Simplifies operation for quick start/pause.  
-* Safety Measures: Limit switch prevents over-travel; enclosed electronics reduce contamination risk.  
-* Modular Design: 3D-printed supports allow syringes of varying diameters to be used interchangeably.  
+* Safety Measures: Limit switch prevents over-travel; enclosed electronics reduce contamination risk. 
+* Modular Design: 3D-printed supports allow syringes of varying diameters to be used interchangeably. 
 * Cost-Effective Fabrication: Most parts printed in PLA; high-heat components in ABS.  
 
 ---
