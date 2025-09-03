@@ -98,6 +98,3 @@ The syringe pump is a compact device designed to steadily deliver precise volume
 5. Run Pump  
    * Press the button once to start.  
    * LED color indicates status: Green = running, Yellow = paused, Red = out of liquid.  
-
----
-
