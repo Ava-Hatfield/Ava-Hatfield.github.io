@@ -1,7 +1,8 @@
 ---
 
 title: "About Ava Hatfield"
-
+layout: single
+classes: wide
 ---
 
 ## About Ava
