@@ -76,6 +76,8 @@ Applications include healthcare (accurate drug delivery) and scientific research
 
 # Arduino Code
 
+[View Arduino Code](assets/Arduino_Syringe_Pump_Code.ino)
+
 ---
 
 # How to Operate the Syringe Pump
