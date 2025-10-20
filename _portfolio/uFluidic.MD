@@ -13,7 +13,18 @@ header:
 Description on what a microfluidic device is
 
 # Introduction 
-## Introduction
+
+## What is pinch flow fractionation?
+Pinch flow fractionation (PFF) is a passive microfluidic method that separates particles by size using steady laminar flow. It doesn’t require external forces or moving parts, making it simple and reliable for small-scale separations.
+
+## How does PFF work?
+In a PFF device, a mixture of particles flows beside a faster buffer stream that “pinches” the sample against one wall of a narrow channel. At this pinch region, the particles align on nearly the same streamline. As the channel widens, larger particles shift farther from the wall due to hydrodynamic lift, while smaller ones stay close, allowing each group to exit through separate outlet channels downstream.
+
+## Specific Applications that Require Sorting Small Particles
+Specific applications of small particle sorting facilitated by microfluidic devices span areas such as environmental monitoring, food and chemical processing, and biomedical research ([source](https://www.flow3d.com/microfluidics-particle-sorting-hydrodynamics/#:~:text=Microfluidic%20particle%20sorting%20has%20applications,hydrodynamics%20of%20the%20microfluidic%20platform)).
+In particular, within biomedical applications, particle-sorting technology enables the separation of biological cells—such as blood cells, stem cells, and tumor cells—for research and medical testing. Microfluidic devices are well suited for this task because they precisely control fluid movement at the microscale, allowing cells to be sorted with high efficiency and purity. Many of these methods operate label-free, distinguishing healthy and diseased cells based on properties like size or flexibility. This approach is especially valuable in cancer studies, stem cell therapy, and precision medicine, where isolating specific cell types is essential for testing or treatment. Compared to large-scale separation methods, microfluidic systems are faster, more accurate, and require smaller sample volumes, making them highly effective for biomedical applications ([source](https://pmc.ncbi.nlm.nih.gov/articles/PMC11853672/#:~:text=These%20studies%20demonstrate%20the%20broad,clinical%20diagnostics%20and%20personalized%20medicine)).
+
+
 ---
 
 # Design 
