@@ -5,10 +5,10 @@ excerpt: "INSERT EXCERPT"
 layout: single
 classes: full
 header:
-  image: /assets/img/microfluidic.HEIC
-  teaser: /assets/img/microfluidic.HEIC
+  image: /assets/img/ufluidic.png
+  teaser: /assets/img/ufluidic.png
 gallery:
-  - image_path: assets/img/microfluidic.HEIC
+  - image_path: assets/img/ufluidic.png
 
 ---
 
