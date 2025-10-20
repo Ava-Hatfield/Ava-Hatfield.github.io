@@ -12,14 +12,15 @@ header:
 
 Description on what a microfluidic device is
 
-# Key Features:
+# Introduction 
 
-* insert list  
-* LED Status Indicators: Green = running, Yellow = paused, Red = syringe empty.  
-* Single-Button Control: Simplifies operation for quick start/pause.  
-* Safety Measures: Limit switch prevents over-travel; enclosed electronics reduce contamination risk. 
-* Modular Design: 3D-printed supports allow syringes of varying diameters to be used interchangeably. 
-* Cost-Effective Fabrication: Most parts printed in PLA; high-heat components in ABS.  
+---
+
+# Design 
+
+---
+
+# Discussion 
 
 ---
 
@@ -32,53 +33,13 @@ Description on what a microfluidic device is
 # Syringe Pump Gallery
 
 Resin Printed Mold
-image_path: assets/img/ufluidic.png
+![Resin Printed Mold](assets/img/ufluidic.png)
 
 Resin Print Mold CAD Drawing
-image_path: assets/img/fusionUFluidicDrawing.png
+![Resin Print Mold CAD Drawing](assets/img/fusionUFluidicDrawing.png)
 
 Plasma Treating Process
-image_path: assets/img/plasmaTreating.jpg
-
----
-
-# Off-the-Shelf Parts
-
-| Item Description                                                | Quantity |
-|-----------------------------------------------------------------|----------|
-| 250 mm lead screw with 2 mm pitch and 2 mm lead                 | 1        |
-| 250 mm lead screw with 2 mm pitch and 8 mm lead                 | 1        |
-| 1/4" x 8 mm Flexible Coupling                                   | 1        |
-| 200 mm linear rod with 8 mm diameter                            | 2        |
-| LM8UU Linear bearing for 8 mm diameter rod                      | 2        |
-| 2040 Aluminum Extrusion 1' Length                               | 1        |
-| Nema 17 Stepper Motor                                           | 1        |
-| MEAN WELL RQ-65D AC-DC Power Supply Quad (5V, 12V, 24V, 12V, 4A)| 1        |
-| Arduino Uno                                                     | 1        |
-| A4988 Stepper Driver                                            | 1        |
-| Small Breadboard                                                | 1        |
-| Panel Mount Latching Push Buttons                               | 1        |
-| Limit Switch                                                    | 1        |
-| RGB Common Cathode LED (Supplied by group)                      | 1        |
-
----
-
-# 3D Printed Parts
-
-| Part                      | Material | Function                                       |
-|---------------------------|----------|------------------------------------------------|
-| Motor Mounting Plate      | ABS      | Heat resistant; holds stepper motor            |
-| Carriage                  | PLA      | Transfers motor motion to syringe plunger      |
-| End Support (closed)      | PLA      | Holds back of syringe securely                 |
-| End Support (Syringe)     | PLA      | Holds syringe end at correct height            |
-| Custom End Support (tip)  | PLA      | Holds syringe tip at correct height            |
-| Enclosure (housing)       | PLA      | Protects circuitry; water-resistant design     |
-
----
-
-# Arduino Code
-
-[View Arduino Code](https://ava-hatfield.github.io/assets/Arduino_Syringe_Pump_Code.ino)
+![Plasma Treating Process](assets/img/plasmaTreating.jpg)
 
 ---
 
