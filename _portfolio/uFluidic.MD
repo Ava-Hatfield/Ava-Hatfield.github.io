@@ -32,14 +32,22 @@ Description on what a microfluidic device is
 
 # Syringe Pump Gallery
 
-Resin Printed Mold
-![Resin Printed Mold](assets/img/ufluidic.png)
+<p style="display:flex;gap:1rem;flex-wrap:wrap;align-items:flex-start;">
+  <figure style="flex:1 1 300px;text-align:center;margin:0;">
+    <img src="/assets/img/ufluidic.png" alt="Resin Printed Mold" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;">
+    <figcaption style="margin-top:8px;font-weight:600;">Resin Printed Mold</figcaption>
+  </figure>
 
-Resin Print Mold CAD Drawing
-![Resin Print Mold CAD Drawing](assets/img/fusionUFluidicDrawing.png)
+  <figure style="flex:1 1 300px;text-align:center;margin:0;">
+    <img src="/assets/img/fusionUFluidicDrawing.png" alt="Resin Print Mold CAD Drawing" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;">
+    <figcaption style="margin-top:8px;font-weight:600;">Resin Print Mold CAD Drawing</figcaption>
+  </figure>
 
-Plasma Treating Process
-![Plasma Treating Process](assets/img/plasmaTreating.jpg)
+  <figure style="flex:1 1 300px;text-align:center;margin:0;">
+    <img src="/assets/img/plasmaTreating.jpg" alt="Plasma Treating Process" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;">
+    <figcaption style="margin-top:8px;font-weight:600;">Plasma Treating Process</figcaption>
+  </figure>
+</p>
 
 ---
 
