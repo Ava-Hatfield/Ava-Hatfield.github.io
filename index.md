@@ -14,6 +14,10 @@ feature_row:
     alt: "Syringe Pump"
     title: "Syringe Pump Design and Assembly"
     excerpt: "Delivers precise liquid volumes."
+ - image_path: assets/img/Syringe-Thumbnail.png
+    alt: "Microfluidic Device"
+    title: "Microfluidic Device Design and Fabrication"
+    excerpt: "Engineered for controlled microscale fluid flow and particle separation."
 
 ---
 
