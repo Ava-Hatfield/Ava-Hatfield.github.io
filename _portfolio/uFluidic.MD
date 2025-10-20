@@ -37,6 +37,9 @@ image_path: assets/img/ufluidic.png
 Resin Print Mold CAD Drawing
 image_path: assets/img/fusionUFluidicDrawing.png
 
+Plasma Treating Process
+image_path: assets/img/plasmaTreating.jpg
+
 ---
 
 # Off-the-Shelf Parts
