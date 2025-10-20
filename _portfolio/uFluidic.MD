@@ -13,7 +13,7 @@ header:
 Description on what a microfluidic device is
 
 # Introduction 
-
+## Introduction
 ---
 
 # Design 
