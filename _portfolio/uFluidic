@@ -5,12 +5,10 @@ excerpt: "INSERT EXCERPT"
 layout: single
 classes: full
 header:
-  image: /assets/img/Syringe-Thumbnail.png
-  teaser: /assets/img/Syringe-Thumbnail.png
+  image: /assets/img/microfluidic.HEIC
+  teaser: /assets/img/microfluidic.HEIC
 gallery:
-  - image_path: assets/img/Syringe-3D-Printing.png
-  - image_path: assets/img/simplified-wiring.png
-  - image_path: assets/img/syringe-3D-rending.png
+  - image_path: assets/img/microfluidic.HEIC
 
 ---
 
