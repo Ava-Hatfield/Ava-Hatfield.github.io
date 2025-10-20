@@ -7,8 +7,6 @@ classes: full
 header:
   image: /assets/img/ufluidic.png
   teaser: /assets/img/ufluidic.png
-gallery:
-  - image_path: assets/img/ufluidic.png
 
 ---
 
@@ -33,7 +31,11 @@ Description on what a microfluidic device is
 
 # Syringe Pump Gallery
 
-{% include gallery %}
+Resin Printed Mold
+image_path: assets/img/ufluidic.png
+
+Resin Print Mold CAD Drawing
+image_path: assets/img/fusionUFluidicDrawing.png
 
 ---
 
