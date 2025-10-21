@@ -140,22 +140,24 @@ Overall, resin printing provides a cost-effective and accessible method for rapi
   </figure>
 
 
-  <figure style="flex:1 1 300px;text-align:center;margin:0;">
-    <img src="/assets/img/fusionUFluidicDrawing.png" alt="Resin Print Mold CAD Drawing" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;">
-    <figcaption style="margin-top:8px;font-weight:600;">Resin Print Mold CAD Drawing</figcaption>
-  </figure>
-
 
   <figure style="flex:1 1 300px;text-align:center;margin:0;">
     <img src="/assets/img/plasmaTreating.jpg" alt="Plasma Treating Process" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;">
     <figcaption style="margin-top:8px;font-weight:600;">Plasma Treating Process</figcaption>
   </figure>
-</p>
+
 
 
   <figure style="flex:1 1 300px;text-align:center;margin:0;">
-    <img src="/assets/img/plasmaTreating.jpg" alt="Plasma Treating Process" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;">
-    <figcaption style="margin-top:8px;font-weight:600;">Plasma Treating Process</figcaption>
+    <img src="/assets/img/updatedCAD.png" alt="Resin Print Mold CAD Drawing" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;">
+    <figcaption style="margin-top:8px;font-weight:600;">Updated CAD Model</figcaption>
+  </figure>
+
+
+
+  <figure style="flex:1 1 300px;text-align:center;margin:0;">
+    <img src="/assets/img/parametersCAD.png" alt="CAD Model Parameters" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;">
+    <figcaption style="margin-top:8px;font-weight:600;">CAD Model Parameters</figcaption>
   </figure>
 </p>
 
