@@ -46,24 +46,16 @@ This device was designed to sort two distinct particle size ranges (1) 125–150
 ### Small Particle Range (125–150 µm)
 
 To determine outlet placement for small particles, the largest size in the range was used since it defines the maximum displacement.  
-\[
-y = \left(\frac{0.7 - 0.15/2}{0.7}\right)(40) = 35.714 \text{ mm}
-\]  
+   * (.7-.15/2)*(40/.7) = 35.714 mm
 For the smaller particle:  
-\[
-y = \left(\frac{0.7 - 0.125/2}{0.7}\right)(40) = 36.428 \text{ mm}
-\]  
+   * (.7-.125/2)*(40/.7) = 36.428 mm
 Both particle sizes have cutoff points above 20 mm, so both are expected to enter the top outlet.
 
 ### Large Particle Range (425–500 µm)
 
 For larger particles, the same relationship was used:  
-\[
-y = \left(\frac{0.7 - 0.5/2}{0.7}\right)(40) = 25.714 \text{ mm}
-\]  
-\[
-y = \left(\frac{0.7 - 0.425/2}{0.7}\right)(40) = 27.857 \text{ mm}
-\]  
+   * (.7-.5/2)*(40/.7) = 25.714 mm
+   * (.7-.425/2)*(40/.7) = 27.857 mm
 The cutoff between convergence into the top and middle channels occurs at 20 mm, so both large particles are expected to enter the middle outlet. The heaviest particle travels up to 25.714 mm, leaving about 5 mm of clearance before the buffer region begins to ensure no large particles enter the buffer outlet.
 
 ### Buffer Flow
@@ -133,39 +125,27 @@ Overall, resin printing provides a cost-effective and accessible method for rapi
 
 # Syringe Pump Gallery
 
-<p style="display:flex;gap:1rem;flex-wrap:wrap;align-items:flex-start;">
+<div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:flex-start;">
   <figure style="flex:1 1 300px;text-align:center;margin:0;">
-    <img src="/assets/img/ufluidic.png" alt="Resin Printed Mold" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;">
+    <img src="/assets/img/ufluidic.png" alt="Resin Printed Mold" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;display:block;margin:auto;">
     <figcaption style="margin-top:8px;font-weight:600;">Resin Printed Mold</figcaption>
   </figure>
 
-
-
-
-
   <figure style="flex:1 1 300px;text-align:center;margin:0;">
-    <img src="/assets/img/plasmaTreating.jpg" alt="Plasma Treating Process" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;">
+    <img src="/assets/img/plasmaTreating.jpg" alt="Plasma Treating Process" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;display:block;margin:auto;">
     <figcaption style="margin-top:8px;font-weight:600;">Plasma Treating Process</figcaption>
   </figure>
 
-
-
-
-
   <figure style="flex:1 1 300px;text-align:center;margin:0;">
-    <img src="/assets/img/updatedCAD.png" alt="Resin Print Mold CAD Drawing" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;">
+    <img src="/assets/img/updatedCAD.png" alt="Resin Print Mold CAD Drawing" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;display:block;margin:auto;">
     <figcaption style="margin-top:8px;font-weight:600;">Updated CAD Model</figcaption>
   </figure>
 
-
-
-
-
   <figure style="flex:1 1 300px;text-align:center;margin:0;">
-    <img src="/assets/img/parametersCAD.png" alt="CAD Model Parameters" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;">
+    <img src="/assets/img/parametersCAD.png" alt="CAD Model Parameters" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;display:block;margin:auto;">
     <figcaption style="margin-top:8px;font-weight:600;">CAD Model Parameters</figcaption>
   </figure>
-</p>
+</div>
 
 ---
 
