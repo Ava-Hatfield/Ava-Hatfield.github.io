@@ -37,7 +37,72 @@ How PFF is advantageous in the context of separating biological cells:
 
 ---
 
-# Design 
+# Design
+
+## CAD Design of Pinch Flow Fractionation (PFF) Microfluidic Device Mold
+
+1. Placement of Outlet Boundaries for Small Particles, Large Particles, and Buffer Flow
+
+This device was designed to sort two distinct particle size ranges (1) 125–150 µm and (2) 425–500 µm using PFF. Outlet boundaries were determined based on particle trajectories in the broadened section of the channel, calculated from theoretical flow relationships.
+
+1a. Small Particle Range (125–150 µm)
+
+To determine outlet placement for small particles, the largest size in the range was used since it defines the maximum displacement.  
+\[
+y = \left(\frac{0.7 - 0.15/2}{0.7}\right)(40) = 35.714 \text{ mm}
+\]  
+For the smaller particle:  
+\[
+y = \left(\frac{0.7 - 0.125/2}{0.7}\right)(40) = 36.428 \text{ mm}
+\]  
+Both particle sizes have cutoff points above 20 mm, so both are expected to enter the top outlet.
+
+1b. Large Particle Range (425–500 µm)
+
+For larger particles, the same relationship was used:  
+\[
+y = \left(\frac{0.7 - 0.5/2}{0.7}\right)(40) = 25.714 \text{ mm}
+\]  
+\[
+y = \left(\frac{0.7 - 0.425/2}{0.7}\right)(40) = 27.857 \text{ mm}
+\]  
+The cutoff between convergence into the top and middle channels occurs at 20 mm, so both large particles are expected to enter the middle outlet. The heaviest particle travels up to 25.714 mm, leaving about 5 mm of clearance before the buffer region begins to ensure no large particles enter the buffer outlet.
+
+1c. Buffer Flow
+
+The bottom outlet collects the buffer flow and collects fluid from the bottom of the broad section to 20 mm in height from the bottom of the broad section. The buffer region has a 20 mm-wide entrance, twice the width of the particle collection entrances (10 mm each). This ensures adequate buffer capacity and prevents it from diverting into particle outlets.
+
+## 2. Flow Balancing Strategy
+
+To address flow balancing and prevent buffer flow from intruding into particle outlets, on-chip hydraulic resistance was added to the particle collection channels.
+
+   * Buffer outlet channel: 5.56 mm long × 2.2 mm wide  
+   * Particle outlet channels: 11.12 mm long × 2.2 mm wide (2× longer → ~2× more resistance)  
+
+The longer, narrower particle channels increase resistance, while the buffer outlet remains shorter and offers less resistance. This ensures the buffer outlet naturally carries the majority of fluid, maintaining proper flow partitioning. The design minimizes contamination between separated particle streams and balances the fluid flow throughout the broad section and as it exits through the tubes.
+
+## 3. Additional Notable Design Choices
+
+3a. Channel Geometry and Dimensions
+
+   * Pinch width: 0.7 mm (1.4× the largest particle diameter, 500 µm)  
+   * Pinch length: 6 mm  
+   * Broad section width: ≥ 11 mm  
+   * Broad section length: 15 mm  
+   * Broad section height: 40 mm → broad section height : pinch width ratio was maximized for dimensions of device 
+   * Channel height: 1.5 mm — provides clearance for 0.5 mm particles  
+
+3b. Structural Design and Printability
+
+   * Inlets/outlets: 2.2 mm posts extruded 1 mm above the mold to fit microfluidic barbs  
+   * Edge spacing: ≥ 3 mm from device edge to allow strong glass bonding and prevent leaks  
+   * Inlet/outlet spacing: ≥ 11 mm center-to-center  
+   * Aspect ratio: Height-to-width ratio kept below 4:1 → (1.5 mm : 0.7 mm) = 2.14:1  
+   * No internal undercuts or holes < 0.5 mm to allow clean demolding  
+
+3c. Bubble Mitigation and Surface Quality
+
+Smooth, rounded channels with fillets were included in the printed mold to minimize bubble accumulation and stress points. Although fillets were not included in CAD dimension drawings (to preserve accurate measurements), they are visible in the printed model. Fillets improve demolding, reduce stress concentrations, and enhance surface flow quality during operation.
 
 ---
 
