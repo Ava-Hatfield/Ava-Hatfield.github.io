@@ -31,9 +31,9 @@ Compared to conventional membrane filters, pinch flow fractionation (PFF) offers
 On the other hand, PFF and other microfluidic methods make it possible to design filters with very sharp size cutoffs. These systems can be tailored easily for different experiments, giving excellent control over both filter structure and how particles are managed. PFF technology also allows for the development of lab-on-a-chip devices, combining efficient sorting with compact design and integration ([source](https://pmc.ncbi.nlm.nih.gov/articles/PMC7082176/table/t1/)).
 
 How PFF is advantageous in the context of separating biological cells:
-Precise control over filter size and design allows microfluidic chips to isolate specific cell types with high purity and efficiency, which is crucial for separating rare cells like circulating tumor cells (CTCs) from blood.
-The possibility of complex custom designs means microfluidic devices can adapt to the varying size and deformability of different cell populations, improving sorting accuracy for stem cells or white blood cells.
-Lab-on-chip integration allows the sorting and analysis of cells to occur in a streamlined, small-scale system, reducing sample loss and contamination and making high-resolution, gentle cell handling feasible for sensitive biomedical applications.
+   * Precise control over filter size and design allows microfluidic chips to isolate specific cell types with high purity and efficiency, which is crucial for separating rare cells like circulating tumor cells (CTCs) from blood.
+   * The possibility of complex custom designs means microfluidic devices can adapt to the varying size and deformability of different cell populations, improving sorting accuracy for stem cells or white blood cells.
+   * Lab-on-chip integration allows the sorting and analysis of cells to occur in a streamlined, small-scale system, reducing sample loss and contamination and making high-resolution, gentle cell handling feasible for sensitive biomedical applications.
 
 ---
 
