@@ -10,7 +10,7 @@ header:
 
 ---
 
-Description on what a microfluidic device is
+The microfluidic device is a small-scale chip designed to manipulate and sort particles or cells within precisely controlled fluid channels. Applications include biological analysis, chemical testing, and particle separation for research and diagnostics.
 
 # Introduction 
 
