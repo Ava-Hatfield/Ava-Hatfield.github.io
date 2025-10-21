@@ -140,31 +140,26 @@ Smooth, rounded channels with fillets were included in the printed mold to minim
 # How to Operate the Microfluidic Device
 
 1. Design the Mold in CAD (Fusion 360):
-
    * Sketch a microfluidic device mold using Autodesk Fusion.
    * Make sure your design follows all required dimensions (50 mm × 75 mm) and specifications for inlets, outlets, and channel spacing.
    * Constrain and label all sketches and features for clarity and printability.
 
 2. Prepare and Print the Mold:
-
    * Export your completed CAD model and arrange multiple devices on a single printer build plate if possible.
    * Set printer resolution parameters to match minimum feature sizes and ensure the mold’s bottom face is flat and parallel to the resin vat.
    * Print the mold with the Form 3+/4 SLA printer, paying attention to required layer thickness and avoiding tall, thin features with aspect ratio above 4:1.
 
 3. Post-Process the Print:
-
    * Wash the printed mold for 5 minutes in each FormWash station; do not exceed 15 total minutes.
    * Air dry the mold upside down for 30 minutes; make sure the surface is evenly matte.
    * Cure the mold briefly (60 seconds) at room temperature, with supports left in place to prevent warping.
    * Remove all support material carefully, without touching or damaging the internal features.
 
 4. Inspect and Clean the Mold:
-
    * Use compressed air to clear any debris or resin from the channels.
    * Double-check for smoothness, lack of bubbles, and correct geometry.
 
 5. Challenge: Leaching
-
    * Uncured resin monomers may leach out of the printed mold during curing.
    * These monomers interfere with PDMS crosslinking, causing incomplete curing and weak or loose device features.
    * This issue negatively affects device performance and bonding quality.
@@ -172,7 +167,6 @@ Smooth, rounded channels with fillets were included in the printed mold to minim
    * The parylene coating acts as a barrier, blocking monomer diffusion and allowing complete PDMS curing.
 
 6. Cast and Bond the Microfluidic Device:
-
    * After post-processing, use the mold to cast PDMS and let it cure.
    * Peel off the cured PDMS device and bond it to a clean glass slide, ensuring the perimeter adheres tightly.
 
