@@ -104,7 +104,24 @@ Smooth, rounded channels with fillets were included in the printed mold to minim
 
 ---
 
-# Discussion 
+# Discussion
+
+## Explanation of Choosing Resin Printing
+
+### Compared to Lithography
+
+Traditional microfluidic mold fabrication techniques, such as photolithography, require expensive specialized equipment, cleanroom environments, and complex multi-step procedures that demand expert handling. This process is time-consuming and costly, which limits opportunities for rapid prototyping and iteration.
+
+### Specific Advantages of Resin Printing
+
+Resin printing, particularly using vat photopolymerization (VPP), offers much finer resolution and smoother surface finishes than filament-based 3D printing (FFF). Its ability to produce small, precise features aligns well with the micro-scale requirements of microfluidic channels, enabling accurate control of flow paths and particle separation.
+
+After printing, resin parts are post-cured to complete polymer crosslinking. This step strengthens the device, enhances temperature resistance, and improves biocompatibility, though excessive curing can increase brittleness. Resin printing also enables materials with uniform mechanical properties, optical transparency, and design flexibility that are difficult to achieve with thermoplastic filaments.
+Overall, resin printing provides a cost-effective and accessible method for rapidly prototyping detailed microfluidic molds with superior mechanical and surface characteristics.
+
+## How to Scale-up and Modify to Handle a Wider Range of Particle Sizes
+
+## What Factors Set the Lower Limit on the Particle Size that can be Separated with PFF
 
 ---
 
