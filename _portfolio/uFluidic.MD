@@ -1,7 +1,7 @@
 ---
 
-title: "uFluidic Device"
-excerpt: "INSERT EXCERPT"
+title: "Microfluidic Device"
+excerpt: "Microfluidic device with resin-printed mold designed for precise flow control and size-based particle separation using pinch flow fractionation."
 layout: single
 classes: full
 header:
