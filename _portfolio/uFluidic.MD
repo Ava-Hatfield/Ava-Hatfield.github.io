@@ -123,7 +123,15 @@ Overall, resin printing provides a cost-effective and accessible method for rapi
 
 ---
 
-# Syringe Pump Gallery
+# Microfluidic Device Testing
+
+<iframe width="700" height="394" 
+        src="https://youtu.be/1GzNUHW4Ndg" 
+        frameborder="0" 
+        allowfullscreen></iframe>
+---
+
+# Microfluidic Device Gallery
 
 <div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:flex-start;">
   <figure style="flex:1 1 300px;text-align:center;margin:0;">
@@ -183,3 +191,4 @@ Overall, resin printing provides a cost-effective and accessible method for rapi
    * Peel off the cured PDMS device and bond it to a clean glass slide, ensuring the perimeter adheres tightly.
 
 ---
+
