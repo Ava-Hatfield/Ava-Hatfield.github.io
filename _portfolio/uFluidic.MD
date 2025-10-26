@@ -127,10 +127,8 @@ The lower limit on the particle size that can be separated using PFF is determin
 
 # Microfluidic Device Testing
 
-<iframe width="700" height="394" 
-        src="https://youtu.be/1GzNUHW4Ndg" 
-        frameborder="0" 
-        allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1GzNUHW4Ndg?si=39XfhUVnbD3jzACV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 # Microfluidic Device Gallery
