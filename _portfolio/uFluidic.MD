@@ -94,6 +94,15 @@ The longer, narrower particle channels increase resistance, while the buffer out
 
 Smooth, rounded channels with fillets were included in the printed mold to minimize bubble accumulation and stress points. Although fillets were not included in CAD dimension drawings (to preserve accurate measurements), they are visible in the printed model. Fillets improve demolding, reduce stress concentrations, and enhance surface flow quality during operation.
 
+## Potential Operational and Outlet Geometry Changes for Device Iteration
+
+The outlet geometry could be modified to address flow instability observed during testing. The primary source of error was the low viscosity of the bulk solution, which caused turbulent flow in the broad section and disrupted the stable streamlines needed for effective pinch flow fractionation.
+
+A key adjustment would be to reduce the overall device size. Previous designs with smaller dimensions maintained laminar flow more effectively. The enlarged version increased flow volume and velocity variation, making laminar conditions harder to sustain, particularly with lower-viscosity fluids. Scaling the device down could restore laminar flow and improve particle trajectory consistency.
+Viscosity also influenced separation outcomes. Lower-viscosity fluids promoted turbulence, while higher-viscosity fluids caused large particles to float and move sluggishly.
+
+If changing the device dimensions and fluid viscosity did not fully balance the outlet flow, further geometric modifications could be introduced. Replacing straight outlet channels with tortuous paths would add flow resistance and help balance the flow in the exit channel with the flow in the exit tubes. Additional refinements could include widening the buffer outlet, or further tapering transitions to reduce shear gradients,. These adjustments would stabilize the flow field, enhance separation consistency, and improve device robustness to fluid property variations.
+
 ---
 
 # Discussion
