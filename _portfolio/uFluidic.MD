@@ -133,37 +133,41 @@ The lower limit on the particle size that can be separated using PFF is determin
 
 # Microfluidic Device Gallery
 
-<div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:flex-start;">
-  <figure style="flex:1 1 300px;text-align:center;margin:0;">
-    <img src="/assets/img/ufluidic.png" alt="Resin Printed Mold" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;display:block;margin:auto;">
-    <figcaption style="margin-top:8px;font-weight:600;">Resin Printed Mold</figcaption>
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/ufluidic.png" alt="Resin Printed Mold"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
   </figure>
 
-  <figure style="flex:1 1 300px;text-align:center;margin:0;">
-    <img src="/assets/img/plasmaTreating.jpg" alt="Plasma Treating Process" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;display:block;margin:auto;">
-    <figcaption style="margin-top:8px;font-weight:600;">Plasma Treating Process</figcaption>
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/plasmaTreating.jpg" alt="Plasma Treating Process"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Plasma Treating Process</figcaption>
   </figure>
 
-  <figure style="flex:1 1 300px;text-align:center;margin:0;">
-    <img src="/assets/img/updatedCAD.png" alt="Resin Print Mold CAD Drawing" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;display:block;margin:auto;">
-    <figcaption style="margin-top:8px;font-weight:600;">Updated CAD Model</figcaption>
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/updatedCAD.png" alt="Resin Print Mold CAD Drawing"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Updated CAD Model</figcaption>
   </figure>
 
-  <figure style="flex:1 1 300px;text-align:center;margin:0;">
-    <img src="/assets/img/parametersCAD.png" alt="CAD Model Parameters" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;display:block;margin:auto;">
-    <figcaption style="margin-top:8px;font-weight:600;">CAD Model Parameters</figcaption>
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/parametersCAD.png" alt="CAD Model Parameters"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">CAD Model Parameters</figcaption>
   </figure>
-</div>
 
-  <figure style="flex:1 1 300px;text-align:center;margin:0;">
-    <img src="/assets/img/printandmold.png" alt="Device and Mold" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;display:block;margin:auto;">
-    <figcaption style="margin-top:8px;font-weight:600;">Device and Mold</figcaption>
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/printandmold.png" alt="Device and Mold"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Device and Mold</figcaption>
   </figure>
-</div>
 
-  <figure style="flex:1 1 300px;text-align:center;margin:0;">
-    <img src="/assets/img/device.png" alt="Device" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;display:block;margin:auto;">
-    <figcaption style="margin-top:8px;font-weight:600;">Device</figcaption>
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/device.png" alt="Device"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Device</figcaption>
   </figure>
 </div>
 
