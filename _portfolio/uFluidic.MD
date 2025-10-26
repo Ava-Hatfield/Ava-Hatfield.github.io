@@ -113,6 +113,10 @@ Overall, resin printing provides a cost-effective and accessible method for rapi
 
 ## How to Scale-up and Modify to Handle a Wider Range of Particle Sizes
 
+The number of exit channels could be increased to match the number of particle size ranges being separated. For example, separating small, medium, and large particles (three size ranges) would require four exit channels—one for the bulk fluid and three for the particle fractions. The exit channels would maintain consistent widths to ensure uniform flow resistance. The particle exit channels would also be made longer (a multiple of the bulk fluid exit length) to create higher resistance, since only a fraction of the total flow passes through them compared to the bulk outlet.
+
+Practical limits exist on the number of exit channels, as each outlet must be spaced 11 mm apart from adjacent outlets and the device edge. The design also incorporates parameters such as exit channel height, pinch width, and broad channel height as functions of particle size. These parameters can be adjusted as the device is scaled or as the target particle size ranges change.
+
 ## What Factors Set the Lower Limit on the Particle Size that can be Separated with PFF
 
 The lower limit on the particle size that can be separated using PFF is determined by fluid dynamics, fabrication constraints, and the tendency for particle stacking. For extremely small particles, Brownian motion dominates, causing random diffusion across streamlines rather than distinct flow paths. Fabrication becomes challenging at small scales because effective separation requires the pinch width to be only slightly larger than the particle diameter. Producing such fine, smooth features is difficult, and thin components are prone to breakage during printing, post-processing, and demolding. Additionally, if the particle diameter is too small relative to the channel and broad section depth, particles are more likely to stack on top of one another, reducing separation efficiency.
