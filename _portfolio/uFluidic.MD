@@ -115,6 +115,8 @@ Overall, resin printing provides a cost-effective and accessible method for rapi
 
 ## What Factors Set the Lower Limit on the Particle Size that can be Separated with PFF
 
+The lower limit on the particle size that can be separated using PFF is determined by fluid dynamics, fabrication constraints, and the tendency for particle stacking. For extremely small particles, Brownian motion dominates, causing random diffusion across streamlines rather than distinct flow paths. Fabrication becomes challenging at small scales because effective separation requires the pinch width to be only slightly larger than the particle diameter. Producing such fine, smooth features is difficult, and thin components are prone to breakage during printing, post-processing, and demolding. Additionally, if the particle diameter is too small relative to the channel and broad section depth, particles are more likely to stack on top of one another, reducing separation efficiency.
+
 ---
 
 # Interactive CAD Model
@@ -152,6 +154,18 @@ Overall, resin printing provides a cost-effective and accessible method for rapi
   <figure style="flex:1 1 300px;text-align:center;margin:0;">
     <img src="/assets/img/parametersCAD.png" alt="CAD Model Parameters" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;display:block;margin:auto;">
     <figcaption style="margin-top:8px;font-weight:600;">CAD Model Parameters</figcaption>
+  </figure>
+</div>
+
+  <figure style="flex:1 1 300px;text-align:center;margin:0;">
+    <img src="/assets/img/printandmold.png" alt="Device and Mold" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;display:block;margin:auto;">
+    <figcaption style="margin-top:8px;font-weight:600;">Device and Mold</figcaption>
+  </figure>
+</div>
+
+  <figure style="flex:1 1 300px;text-align:center;margin:0;">
+    <img src="/assets/img/device.png" alt="Device" style="max-width:100%;height:auto;border:1px solid #eee;padding:6px;display:block;margin:auto;">
+    <figcaption style="margin-top:8px;font-weight:600;">Device</figcaption>
   </figure>
 </div>
 
