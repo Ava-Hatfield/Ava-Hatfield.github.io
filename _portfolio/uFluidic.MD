@@ -186,7 +186,7 @@ The lower limit on the particle size that can be separated using PFF is determin
 
 ---
 
-# How to Operate the Microfluidic Device
+# How to Create a Microfluidic Device with Resin Printing
 
 1. Design the Mold in CAD (Fusion 360):
    * Sketch a microfluidic device mold using Autodesk Fusion.
