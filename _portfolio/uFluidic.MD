@@ -10,7 +10,7 @@ header:
 
 ---
 
-The microfluidic device is a small-scale chip designed to manipulate and sort particles or cells within precisely controlled fluid channels. Applications include biological analysis, chemical testing, and particle separation for research and diagnostics.
+The microfluidic device is a small-scale chip designed to manipulate and sort particles or cells within precisely controlled fluid channels. Applications include biological analysis, chemical testing, and particle separation.
 
 # Introduction 
 
@@ -18,7 +18,7 @@ The microfluidic device is a small-scale chip designed to manipulate and sort pa
 Pinch flow fractionation (PFF) is a passive microfluidic method that separates particles by size using steady laminar flow. It doesn’t require external forces or moving parts, making it simple and reliable for small-scale separations.
 
 ## How does PFF work?
-In a PFF device, a mixture of particles flows beside a faster buffer stream that “pinches” the sample against one wall of a narrow channel. At this pinch region, the particles align on nearly the same streamline. As the channel widens, larger particles shift farther from the wall due to hydrodynamic lift, while smaller ones stay close, allowing each group to exit through separate outlet channels downstream.
+In a PFF device, a mixture of particles flows beside a faster buffer stream that “pinches” the sample against one wall of a narrow channel. At this pinch region, all particles align along nearly the same streamline near the wall. As the channel widens, hydrodynamic lift forces cause larger particles to migrate toward the centerline of the broad section, while smaller particles remain closer to the wall and follow separate streamlines. This spatial separation allows particles of different sizes to exit through distinct outlet channels downstream.
 
 ## Specific Applications that Require Sorting Small Particles
 Specific applications of small particle sorting facilitated by microfluidic devices span areas such as environmental monitoring, food and chemical processing, and biomedical research ([source](https://www.flow3d.com/microfluidics-particle-sorting-hydrodynamics/#:~:text=Microfluidic%20particle%20sorting%20has%20applications,hydrodynamics%20of%20the%20microfluidic%20platform)).
