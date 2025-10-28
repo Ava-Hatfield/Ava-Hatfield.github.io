@@ -93,9 +93,16 @@ The longer, narrower particle channels increase resistance, while the buffer out
 
 Smooth, rounded channels with fillets were included in the printed mold to minimize bubble accumulation and stress points. Although fillets were not included in CAD dimension drawings (to preserve accurate measurements), they are visible in the printed model. Fillets improve demolding, reduce stress concentrations, and enhance surface flow quality during operation.
 
+### Symmetric Design Approach
+
+The microfluidic device designed used a symmetric approach. By design, half of the flow exited through the buffer outlet and half through the combined particle outlets. The buffer outlet collected flow from 0–20 mm in channel height, the large-particle outlet from 20–30 mm, and the small-particle outlet from 30–40 mm. This even distribution established symmetry in both layout and intended flow division.
+
+However, in practice, the design deviated from perfect symmetry during operation. The outlet tubing for each channel was positioned at slightly different vertical heights, introducing unequal hydrostatic pressures between outlets. These differences caused imbalances in flow resistance, shifting the fluid pathways and disrupting the ideal 50/50 split between the buffer and particle outlets. When higher resistance developed at the lower outlets, the flow was diverted toward the upper outlets, altering the separation pattern.
+
+
 ## Potential Operational and Outlet Geometry Changes for Device Iteration
 
-The outlet geometry could be modified to address flow instability observed during testing. The primary source of error was the low viscosity of the bulk solution, which caused turbulent flow in the broad section and disrupted the stable streamlines needed for effective pinch flow fractionation.
+The outlet geometry could be modified to address flow instability observed during testing. The primary source of error was the low viscosity of the buffer solution, which caused turbulent flow in the broad section and disrupted the stable streamlines needed for effective pinch flow fractionation.
 
 A key adjustment would be to reduce the overall device size. Previous designs with smaller dimensions maintained laminar flow more effectively. The enlarged version increased flow volume and velocity variation, making laminar conditions harder to sustain, particularly with lower-viscosity fluids. Scaling the device down could restore laminar flow and improve particle trajectory consistency.
 Viscosity also influenced separation outcomes. Lower-viscosity fluids promoted turbulence, while higher-viscosity fluids caused large particles to float and move sluggishly.
@@ -121,7 +128,7 @@ Overall, resin printing provides a cost-effective and accessible method for rapi
 
 ## How to Scale-up and Modify to Handle a Wider Range of Particle Sizes
 
-The number of exit channels could be increased to match the number of particle size ranges being separated. For example, separating small, medium, and large particles (three size ranges) would require four exit channels—one for the bulk fluid and three for the particle fractions. The exit channels would maintain consistent widths to ensure uniform flow resistance. The particle exit channels would also be made longer (a multiple of the bulk fluid exit length) to create higher resistance, since only a fraction of the total flow passes through them compared to the bulk outlet.
+The number of exit channels could be increased to match the number of particle size ranges being separated. For example, separating small, medium, and large particles (three size ranges) would require four exit channels—one for the buffer fluid and three for the particle fractions. The exit channels would maintain consistent widths to ensure uniform flow resistance. The particle exit channels would also be made longer (a multiple of the buffer fluid exit length) to create higher resistance, since only a fraction of the total flow passes through them compared to the buffer outlet.
 
 Practical limits exist on the number of exit channels, as each outlet must be spaced 11 mm apart from adjacent outlets and the device edge. The design also incorporates parameters such as exit channel height, pinch width, and broad channel height as functions of particle size. These parameters can be adjusted as the device is scaled or as the target particle size ranges change.
 
