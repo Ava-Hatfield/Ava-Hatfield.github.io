@@ -46,16 +46,15 @@ This device was designed to sort two distinct particle size ranges (1) 125–150
 ### Small Particle Range (125–150 µm)
 
 To determine outlet placement for small particles, the largest size in the range was used since it defines the maximum displacement.  
-   * (.7-.15/2)*(40/.7) = 35.714 mm
-For the smaller particle:  
-   * (.7-.125/2)*(40/.7) = 36.428 mm
+   * (.7-.15/2)*(40/.7) = 35.714 mm (largest size in the range)
+   * (.7-.125/2)*(40/.7) = 36.428 mm (smaller size in range)
 Both particle sizes have cutoff points above 20 mm, so both are expected to enter the top outlet.
 
 ### Large Particle Range (425–500 µm)
 
 For larger particles, the same relationship was used:  
-   * (.7-.5/2)*(40/.7) = 25.714 mm
-   * (.7-.425/2)*(40/.7) = 27.857 mm
+   * (.7-.5/2)*(40/.7) = 25.714 mm (largest size in the range)
+   * (.7-.425/2)*(40/.7) = 27.857 mm (smaller size in the range)
 The cutoff between convergence into the top and middle channels occurs at 20 mm, so both large particles are expected to enter the middle outlet. The heaviest particle travels up to 25.714 mm, leaving about 5 mm of clearance before the buffer region begins to ensure no large particles enter the buffer outlet.
 
 ### Buffer Flow
