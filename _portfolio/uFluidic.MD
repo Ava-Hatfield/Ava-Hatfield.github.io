@@ -49,7 +49,7 @@ To determine outlet placement for small particles, the largest size in the range
    * (.7-.15/2)*(40/.7) = 35.714 mm (largest size in the range)
    * (.7-.125/2)*(40/.7) = 36.428 mm (smaller size in range)
 
-Both particle sizes have cutoff points above 20 mm, so both are expected to enter the top outlet.
+Both particle sizes have cutoff points above 30 mm, so both are expected to enter the top outlet.
 
 ### Large Particle Range (425–500 µm)
 
@@ -61,7 +61,7 @@ The cutoff between convergence into the top and middle channels occurs at 20 mm,
 
 ### Buffer Flow
 
-The bottom outlet collects the buffer flow and collects fluid from the bottom of the broad section to 20 mm in height from the bottom of the broad section. The buffer region has a 20 mm-wide entrance, twice the width of the particle collection entrances (10 mm each). This ensures adequate buffer capacity and prevents it from diverting into particle outlets.
+The bottom outlet collects the buffer flow and collects fluid from the bottom of the broad section to 20 mm in height from the bottom of the broad section. The buffer region has a 20 mm-wide entrance, twice the width of the particle collection entrances (10 mm each). This ensures adequate buffer collection.
 
 ## Flow Balancing Strategy
 
@@ -104,12 +104,11 @@ However, in practice, the design deviated from perfect symmetry during operation
 
 ## Potential Operational and Outlet Geometry Changes for Device Iteration
 
-The outlet geometry could be modified to address flow instability observed during testing. The primary source of error was the low viscosity of the buffer solution, which caused turbulent flow in the broad section and disrupted the stable streamlines needed for effective pinch flow fractionation.
+The outlet geometry could be modified to address flow instability observed during testing. The primary source of error was the low viscosity of the buffer solution, which caused turbulent flow in the broad section and disrupted the stable streamlines needed for effective pinch flow fractionation. Increasing the viscosity of the buffer solution had negative side effects. Lower-viscosity fluids promoted turbulence in the large device, while higher-viscosity fluids caused large particles to float and move sluggishly.
 
 A key adjustment would be to reduce the overall device size. Previous designs with smaller dimensions maintained laminar flow more effectively. The enlarged version increased flow volume and velocity variation, making laminar conditions harder to sustain, particularly with lower-viscosity fluids. Scaling the device down could restore laminar flow and improve particle trajectory consistency.
-Viscosity also influenced separation outcomes. Lower-viscosity fluids promoted turbulence, while higher-viscosity fluids caused large particles to float and move sluggishly.
 
-If changing the device dimensions and fluid viscosity did not fully balance the outlet flow, further geometric modifications could be introduced. Replacing straight outlet channels with tortuous paths would add flow resistance and help balance the flow in the exit channel with the flow in the exit tubes. Additional refinements could include widening the buffer outlet, or further tapering transitions to reduce shear gradients,. These adjustments would stabilize the flow field, enhance separation consistency, and improve device robustness to fluid property variations.
+If changing the device dimensions and/or fluid viscosity did not fully balance the outlet flow, further geometric modifications could be introduced. Replacing straight outlet channels with tortuous paths would add flow resistance and help balance the flow in the exit channel with the flow in the exit tubes. Additional refinements could include widening the buffer outlet, or further tapering transitions to reduce shear gradients. These adjustments would stabilize the flow field, enhance separation consistency, and improve device performance in the event of fluid property variations.
 
 ---
 
@@ -130,7 +129,7 @@ Overall, resin printing provides a cost-effective and accessible method for rapi
 
 ## How to Scale-up and Modify to Handle a Wider Range of Particle Sizes
 
-The number of exit channels could be increased to match the number of particle size ranges being separated. For example, separating small, medium, and large particles (three size ranges) would require four exit channels—one for the buffer fluid and three for the particle fractions. The exit channels would maintain consistent widths to ensure uniform flow resistance. The particle exit channels would also be made longer (a multiple of the buffer fluid exit length) to create higher resistance, since only a fraction of the total flow passes through them compared to the buffer outlet.
+The number of exit channels could be increased to match the number of particle size ranges being separated. For example, separating small, medium, and large particles (three size ranges) would require four exit channels: one for the buffer fluid and three for the particle fractions. The exit channels would maintain consistent widths to ensure uniform flow resistance. The particle exit channels would also be made longer (a multiple of the buffer fluid exit length) to create higher resistance, since only a fraction of the total flow passes through them compared to the buffer outlet.
 
 Practical limits exist on the number of exit channels, as each outlet must be spaced 11 mm apart from adjacent outlets and the device edge. The design also incorporates parameters such as exit channel height, pinch width, and broad channel height as functions of particle size. These parameters can be adjusted as the device is scaled or as the target particle size ranges change.
 
@@ -204,7 +203,7 @@ The lower limit on the particle size that can be separated using PFF is determin
 2. Prepare and Print the Mold:
    * Export your completed CAD model and arrange multiple devices on a single printer build plate if possible.
    * Set printer resolution parameters to match minimum feature sizes and ensure the mold’s bottom face is flat and parallel to the resin vat.
-   * Print the mold with the Form 3+/4 SLA printer, paying attention to required layer thickness and avoiding tall, thin features with aspect ratio above 4:1.
+   * Print the mold with the Form 3+/4 SLA printer, paying attention to printer settings.
 
 3. Post-Process the Print:
    * Wash the printed mold for 5 minutes in each FormWash station; do not exceed 15 total minutes.
@@ -216,7 +215,7 @@ The lower limit on the particle size that can be separated using PFF is determin
    * Use compressed air to clear any debris or resin from the channels.
    * Double-check for smoothness, lack of bubbles, and correct geometry.
 
-5. Challenge: Leaching
+5. Coat the Mold with Parylene:
    * Uncured resin monomers may leach out of the printed mold during curing.
    * These monomers interfere with PDMS crosslinking, causing incomplete curing and weak or loose device features.
    * This issue negatively affects device performance and bonding quality.
