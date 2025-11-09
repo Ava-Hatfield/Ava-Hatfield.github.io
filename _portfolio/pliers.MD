@@ -32,6 +32,7 @@ Successful bonding between two plastics depends on multiple factors:
    * Chemical Composition: Compatibility in chemical structures influences adhesion.
    * Shrinkage and Cooling Rates: Differing shrinkage during cooling can result in warping, distortion, or layer separation.
    * Mechanical Compatibility: Materials with vastly different flexibility or rigidity may not bond effectively.
+
 Surface energy, the energy required to create or maintain a material’s surface, is a key factor. Polar materials have higher surface energy and tend to bond better, as seen in polymers like polycarbonate and nylon (medium surface energy), compared to low surface energy materials like polyethylene or PVA. Measuring contact angle helps quantify surface energy, which guides material selection to ensure good adhesion in print-in-place designs.
 
 ---
