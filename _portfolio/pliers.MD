@@ -14,11 +14,9 @@ The multimaterial needle-nose pliers are a functional prototype designed to grip
 
 # Introduction 
 
-## Project Description
-INSERT DESCRIPTION
+## Project Description and About Print-in-Place Parts
 
-## About Print-in-Place Parts
-INSERT DESCRIPTION
+The print-in-place pliers are fully functional and fabricated in a single printing process without requiring extra fasteners or materials. Motion is enabled by combining rigid PLA handles and jaws with a flexible TPU spring hinge, while assembly uses a material-locking dovetail connection. This project demonstrates how multimaterial additive manufacturing and thoughtful print-in-place design can produce working mechanisms straight from the printer. These models rely on precise clearances and material choices, allowing hinged or moving components (whether printed together or separately with different materials) to remain distinct and mobile. The specific objective was to design needle nose pliers capable of picking up through-hole resistors, with a TPU spring that returns the jaws to the open position when not in use. This approach highlights how 3D printing can replace traditional multi-step manufacturing with a single, integrated process.
 
 ## Specific Applications of Print-in-Place Parts
 INSERT DESCRIPTION ([source](INSERT LINK)).
