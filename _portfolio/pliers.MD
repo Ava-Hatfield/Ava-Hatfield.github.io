@@ -27,17 +27,11 @@ PIP parts are also valuable in specialized fields like healthcare and aerospace,
 ## Successful Combinations of Materials for Print-in-Place Parts
 
 Common material combinations that work well for print-in-place parts include PLA and TPU, PLA and PVA, ABS and HIPS, as well as using fresh and recycled materials. Water-soluble supports like PVA are especially useful due to their low bonding with primary materials, enabling easy removal.
-
 Successful bonding between two plastics depends on multiple factors:
-
-Surface Energy: Materials with similar surface energies and intermolecular forces bond better. For example, PLA (hydrogen bonding) and ABS (van der Waals forces) do not bond well together.
-
-Chemical Composition: Compatibility in chemical structures influences adhesion.
-
-Shrinkage and Cooling Rates: Differing shrinkage during cooling can result in warping, distortion, or layer separation.
-
-Mechanical Compatibility: Materials with vastly different flexibility or rigidity may not bond effectively.
-
+   * Surface Energy: Materials with similar surface energies and intermolecular forces bond better. For example, PLA (hydrogen bonding) and ABS (van der Waals forces) do not bond well together.
+   * Chemical Composition: Compatibility in chemical structures influences adhesion.
+   * Shrinkage and Cooling Rates: Differing shrinkage during cooling can result in warping, distortion, or layer separation.
+   * Mechanical Compatibility: Materials with vastly different flexibility or rigidity may not bond effectively.
 Surface energy, the energy required to create or maintain a material’s surface, is a key factor. Polar materials have higher surface energy and tend to bond better, as seen in polymers like polycarbonate and nylon (medium surface energy), compared to low surface energy materials like polyethylene or PVA. Measuring contact angle helps quantify surface energy, which guides material selection to ensure good adhesion in print-in-place designs.
 
 ---
