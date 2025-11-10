@@ -52,7 +52,10 @@ INSERT DESCRIPTION
 INSERT DESCRIPTION...what material is used
 
 ## Relevant Specifications
-INSERT DESCRIPTION
+
+The pliers feature an 80 mm jaw length, measured along the inner face from the tip to the lowest point before the hinge. The top 55 mm of each jaw is printed in TPU for flexibility and enhanced grip, while the lower section and legs are PLA for rigidity and strength. The internal square spring is composed of TPU, providing the necessary flex for operation. The jaw rests at a 14.14 mm open position.
+
+Design parameters, including the flexible square dimensions, dovetail triangle size, key distances for interlocks, flexible jaw length, and extrusion height, were implemented to streamline the iterative CAD process. The dovetail interlock was designed using the rectangular pattern sketch feature and was designed with a 0.1 mm clearance fit. To maximize grip, 55 1 mm equilateral triangles were added to the internal face of the TPU section of plier tip. This was designed using the pattern along path body feature. The final printed model was scaled to 75% of the CAD size. Additional dimensions and parameters are viewable in the gallery section and CAD drawings.
 
 ## Print Settings
 INSERT DESCRIPTION
