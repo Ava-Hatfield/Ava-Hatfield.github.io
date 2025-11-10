@@ -78,13 +78,13 @@ could insert video
 
 <div style="display:block;">
   <figure style="margin:0 0 1.5rem 0; text-align:center;">
-    <img src="/assets/img/ufluidic.png" alt="Resin Printed Mold"
+    <img src="/assets/img/plierDraw.png" alt="Plier CAD Drawing"
          style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
     <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
   </figure>
 
   <figure style="margin:0 0 1.5rem 0; text-align:center;">
-    <img src="/assets/img/plasmaTreating.jpg" alt="Plasma Treating Process"
+    <img src="/assets/img/plierParameters.jpg" alt="Plier CAD Parameters"
          style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
     <figcaption style="margin-top:8px; font-weight:600;">Plasma Treating Process</figcaption>
   </figure>
@@ -118,5 +118,16 @@ could insert video
 
 # How to Operate the MultiMaterial Pliers
 
-1. 
+1. Design the Model: Create the plier assembly in CAD using parametric dimensions to streamline the iterative process.
+
+2. Set Clearances: Apply a 0.1 mm clearance to all interlocking and rotating features to ensure a fit between printed components.
+
+3. Prepare for Printing: Export the design as a multi-body file (STL or 3MF) and import it into SuperSlicer. For each print, delete the components that are not relevant to the selected material (PLA or TPU).
+
+4. 3D Print: Print PLA components on one printer for rigid parts and TPU components on a separate printer for flexible parts. For flexible sections, use a grid infill pattern, remove top and bottom layers, and adjust infill percentage to tune flexibility.
+
+5. Assemble and Test Fit: After printing, align the PLA and TPU sections and verify the dovetail interlock and spring fit properly.
+
+6. Operate the Pliers: Compress the PLA handles to close the TPU-tipped jaws, using the TPU square spring to reopen the pliers upon release.
+
 ---
