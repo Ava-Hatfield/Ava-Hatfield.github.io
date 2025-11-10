@@ -84,7 +84,7 @@ could insert video
   </figure>
 
   <figure style="margin:0 0 1.5rem 0; text-align:center;">
-    <img src="/assets/img/plierParameters.jpg" alt="Plier CAD Parameters"
+    <img src="/assets/img/plierParameters.png" alt="Plier CAD Parameters"
          style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
     <figcaption style="margin-top:8px; font-weight:600;">Plasma Treating Process</figcaption>
   </figure>
