@@ -5,8 +5,8 @@ excerpt: "Multimaterial needle-nose pliers with integrated flexible spring desig
 layout: single
 classes: full
 header:
-  image: /assets/img/ufluidic.png
-  teaser: /assets/img/ufluidic.png
+  image: /assets/img/plierthumbnail.png
+  teaser: /assets/img/plierthumbnail.png
 
 ---
 
@@ -137,45 +137,26 @@ allowfullscreen></iframe>
 
 ---
 
-# MultiMaterial Plier Gallery
+# Gallery of Final MultiMaterial Plier Iteration
 
 <div style="display:block;">
   <figure style="margin:0 0 1.5rem 0; text-align:center;">
-    <img src="/assets/img/plierDraw.png" alt="Plier CAD Drawing"
+    <img src="/assets/img/pliersfinal.png" alt="Final Iteration of MultiMaterial Pliers"
          style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
     <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
   </figure>
 
   <figure style="margin:0 0 1.5rem 0; text-align:center;">
-    <img src="/assets/img/plierParameters.png" alt="Plier CAD Parameters"
+    <img src="/assets/img/PLIERPARAMETER.png" alt="Plier CAD Parameters"
          style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
     <figcaption style="margin-top:8px; font-weight:600;">Plasma Treating Process</figcaption>
   </figure>
 
   <figure style="margin:0 0 1.5rem 0; text-align:center;">
-    <img src="/assets/img/updatedCAD.png" alt="Resin Print Mold CAD Drawing"
+    <img src="/assets/img/CADPLIERS.png" alt="Final Iteration CAD Drawing"
          style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
     <figcaption style="margin-top:8px; font-weight:600;">Updated CAD Model</figcaption>
   </figure>
-
-  <figure style="margin:0 0 1.5rem 0; text-align:center;">
-    <img src="/assets/img/parametersCAD.png" alt="CAD Model Parameters"
-         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
-    <figcaption style="margin-top:8px; font-weight:600;">CAD Model Parameters</figcaption>
-  </figure>
-
-  <figure style="margin:0 0 1.5rem 0; text-align:center;">
-    <img src="/assets/img/printandmold.png" alt="Device and Mold"
-         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
-    <figcaption style="margin-top:8px; font-weight:600;">Device and Mold</figcaption>
-  </figure>
-
-  <figure style="margin:0 0 1.5rem 0; text-align:center;">
-    <img src="/assets/img/device.png" alt="Device"
-         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
-    <figcaption style="margin-top:8px; font-weight:600;">Device</figcaption>
-  </figure>
-</div>
 
 ---
 
@@ -183,7 +164,7 @@ allowfullscreen></iframe>
 
 1. Design the Model: Create the plier assembly in CAD using parametric dimensions to streamline the iterative process.
 
-2. Set Clearances: Apply a 0.1 mm clearance to all interlocking and rotating features to ensure a fit between printed components.
+2. Set Clearances: Apply a 0.05 mm clearance to all interlocking and rotating features to ensure a fit between printed components.
 
 3. Prepare for Printing: Export the design as a multi-body file (STL or 3MF) and import it into SuperSlicer. For each print, delete the components that are not relevant to the selected material (PLA or TPU).
 
