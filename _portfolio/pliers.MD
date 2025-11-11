@@ -131,12 +131,12 @@ INSERT DESCRIPTION
 </figure>
 
 <figure style="text-align:center;">
-  <img src="/assets/img/PLIERPARAMATER.png" alt="Plier CAD Parameters" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
+  <img src="/assets/img/finalcadparameterplier.png" alt="Plier CAD Parameters" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
   <figcaption style="margin-top:8px; font-weight:600;">Plier CAD Parameters</figcaption>
 </figure>
 
 <figure style="text-align:center;">
-  <img src="/assets/img/CADPLIERS.png" alt="Final Iteration CAD Drawing" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
+  <img src="/assets/img/finalcaddrawplier.png" alt="Final Iteration CAD Drawing" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
   <figcaption style="margin-top:8px; font-weight:600;">Final Iteration CAD Drawing</figcaption>
 </figure>
 
