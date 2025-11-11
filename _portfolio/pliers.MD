@@ -2,7 +2,7 @@
 title: "MultiMaterial Pliers"
 excerpt: "Multimaterial needle-nose pliers with integrated flexible spring designed for precision gripping of through-hole resistors and automatic return-to-open motion using 95A TPU for elastic recovery."
 layout: single
-classes: full
+classes: wide
 header:
   image: /assets/img/plierthumbnail.png
   teaser: /assets/img/plierthumbnail.png
