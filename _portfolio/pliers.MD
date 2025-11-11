@@ -106,8 +106,27 @@ The pliers feature an 80 mm jaw length, measured along the inner face from the t
 
 Design parameters, including the flexible square dimensions, dovetail triangle size, key distances for interlocks, flexible jaw length, and extrusion height, were implemented to streamline the iterative CAD process. The dovetail interlock was designed using the rectangular pattern sketch feature and was designed with a 0.1 mm clearance fit. To maximize grip, 55 1 mm equilateral triangles were added to the internal face of the TPU section of plier tip. This was designed using the pattern along path body feature. The final printed model was scaled to 75% of the CAD size. Additional dimensions and parameters are viewable in the gallery section and CAD drawings. A 5 mm fillet was added to the vertical edges of the circle cut and a 10 mm fillet to the vertical edges of the plier body.
 
-## Print Settings of Each Iteration
-INSERT DESCRIPTION
+## Print Settings for All Iterations
+
+| Iteration | Component                | Top/Bottom Layers | Perimeters | Fill Pattern | Fill Density | Printer Temperature                        |
+|------------|--------------------------|-------------------|-------------|---------------|---------------|---------------------------------------------|
+| **1** | original large PLA handles | 3 | 3 | rectilinear | 15% | 215 °C (layer 1), 210 °C (others) |
+| **1** | large TPU tips             | 3 | 3 | rectilinear | 15% | 235 °C (layer 1), 230 °C (others) |
+| **1** | large TPU square           | 0 | 3 | grid         | 15% | 235 °C (layer 1), 230 °C (others) |
+| **1** | large TPU square           | 0 | 3 | grid         | 20% | 235 °C (layer 1), 230 °C (others) |
+| **2** | revised large PLA handles  | 3 | 3 | rectilinear  | 15% | 215 °C (layer 1), 210 °C (others) |
+| **2** | revised large TPU tips     | 4 | 3 | rectilinear  | 75% | 235 °C (layer 1), 230 °C (others) |
+| **2** | revised large TPU square   | 0 | 3 | grid         | 13% | 235 °C (layer 1), 230 °C (others) |
+| **2** | revised large TPU square   | 0 | 3 | grid         | 15% | 235 °C (layer 1), 230 °C (others) |
+| **2** | revised large TPU square   | 0 | 3 | grid         | 18% | 235 °C (layer 1), 230 °C (others) |
+| **2** | revised large TPU square   | 0 | 3 | grid         | 20% | 235 °C (layer 1), 230 °C (others) |
+| **3** | **small PLA handles**      | **3** | **3** | **rectilinear** | **15%** | **215 °C (layer 1), 210 °C (others)** |
+| **3** | **small TPU tips**         | **3** | **3** | **rectilinear** | **55%** | **235 °C (layer 1), 230 °C (others)** |
+| **3** | small TPU square           | 0 | 3 | grid         | 20% | 235 °C (layer 1), 230 °C (others) |
+| **3** | small TPU square           | 0 | 3 | grid         | 23% | 235 °C (layer 1), 230 °C (others) |
+| **3** | small TPU square           | 0 | 3 | grid         | 25% | 235 °C (layer 1), 230 °C (others) |
+| **3** | **small TPU square**       | **0** | **3** | **grid** | **27%** | **235 °C (layer 1), 230 °C (others)** |
+| **3** | small TPU square           | 0 | 3 | grid         | 30% | 235 °C (layer 1), 230 °C (others) |
 
 ---
 
