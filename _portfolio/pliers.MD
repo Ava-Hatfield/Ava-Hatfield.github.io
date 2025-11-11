@@ -48,17 +48,17 @@ Surface energy, the energy required to create or maintain a material’s surface
 
 <figure style="text-align:center;">
   <img src="/assets/img/iteration1.png" alt="First Iteration" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
-  <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  <figcaption style="margin-top:8px; font-weight:600;">First Iteration</figcaption>
 </figure>
 
 <figure style="text-align:center;">
   <img src="/assets/img/iteration1closed.png" alt="First Iteration Closed" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
-  <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  <figcaption style="margin-top:8px; font-weight:600;">First Iteration Closed</figcaption>
 </figure>
 
 <figure style="text-align:center;">
   <img src="/assets/img/squareinitial.png" alt="First Iteration of Flexible Component" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
-  <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  <figcaption style="margin-top:8px; font-weight:600;">First Iteration of Flexible Component</figcaption>
 </figure>
 
 ---
@@ -71,22 +71,22 @@ Surface energy, the energy required to create or maintain a material’s surface
 
 <figure style="text-align:center;">
   <img src="/assets/img/iteration2.png" alt="Second Iteration" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
-  <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  <figcaption style="margin-top:8px; font-weight:600;">Second Iteration</figcaption>
 </figure>
 
 <figure style="text-align:center;">
   <img src="/assets/img/iteration2closed.png" alt="Second Iteration Closed" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
-  <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  <figcaption style="margin-top:8px; font-weight:600;">Second Iteration Closed</figcaption>
 </figure>
 
 <figure style="text-align:center;">
   <img src="/assets/img/tip2.png" alt="Second Iteration of Tips" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
-  <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  <figcaption style="margin-top:8px; font-weight:600;">Second Iteration of Tips</figcaption>
 </figure>
 
 <figure style="text-align:center;">
   <img src="/assets/img/square2.png" alt="Second Iteration of Flexible Component" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
-  <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  <figcaption style="margin-top:8px; font-weight:600;">Second Iteration of Flexible Component</figcaption>
 </figure>
 
 ---
@@ -127,17 +127,17 @@ INSERT DESCRIPTION
 
 <figure style="text-align:center;">
   <img src="/assets/img/pliersfinal.png" alt="Final Iteration of MultiMaterial Pliers" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
-  <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  <figcaption style="margin-top:8px; font-weight:600;">Final Iteration of MultiMaterial Pliers</figcaption>
 </figure>
 
 <figure style="text-align:center;">
-  <img src="/assets/img/PLIERPARAMETER.png" alt="Plier CAD Parameters" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
-  <figcaption style="margin-top:8px; font-weight:600;">Plasma Treating Process</figcaption>
+  <img src="/assets/img/PLIERPARAMATER.png" alt="Plier CAD Parameters" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
+  <figcaption style="margin-top:8px; font-weight:600;">Plier CAD Parameters</figcaption>
 </figure>
 
 <figure style="text-align:center;">
   <img src="/assets/img/CADPLIERS.png" alt="Final Iteration CAD Drawing" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
-  <figcaption style="margin-top:8px; font-weight:600;">Updated CAD Model</figcaption>
+  <figcaption style="margin-top:8px; font-weight:600;">Final Iteration CAD Drawing</figcaption>
 </figure>
 
 ---
