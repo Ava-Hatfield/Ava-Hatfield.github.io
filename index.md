@@ -18,6 +18,10 @@ feature_row:
     alt: "Microfluidic Device"
     title: "Microfluidic Device Design and Fabrication"
     excerpt: "Engineered for controlled microscale fluid flow and particle separation."
+  - image_path: assets/img/plierthumbnail.png
+    alt: "MultiMaterial Pliers"
+    title: "MultiMaterial Pliers Iterative Design and Performance"
+    excerpt: "Designed for precise gripping and flexible motion through integrated rigid and elastic materials."
 
 ---
 
