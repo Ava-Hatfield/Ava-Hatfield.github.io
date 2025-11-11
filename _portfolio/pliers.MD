@@ -102,19 +102,26 @@ Despite these adjustments, the pliers remained too large for effective functiona
 ---
 
 ## Design of the Final Iteration
-INSERT DESCRIPTION
 
-## Spring Component Creation of the Final Iteration
-INSERT DESCRIPTION
+The final iteration followed a similar overall structure to the first two but was fully redesigned in CAD to ensure accurate print dimensions. The internal flexible square was modeled with a rectangular perimeter of interlocking triangular features to form a dovetail mechanism between TPU and PLA components. The triangular jaw pattern from Iteration 2 was removed, as the TPU alone provided sufficient grip for handling resistors. The finalized plier size operated smoothly and allowed one-handed use. Multiple parameters were implemented in the CAD model to support easy scaling or refinement in future iterations (see image Plier CAD Parameters).
 
-## Spring Component Performance of the Final Iteration
-INSERT DESCRIPTION...what material is used
+## Spring Component Creation and Performance of the Final Iteration
+
+The internal flexible square underwent several design and print tests using varying infill percentages and patterns (see image Alternate Infill Percentages of Internal Flexible Square and Print Settings for All Iterations table). The final selected spring component was printed in TPU with 0 top layers, 0 bottom layers, three perimeters, a grid infill pattern, and 27% infill density. This combination provided an effective balance of flexibility and durability, resulting in consistent spring motion and reliable structural performance.
 
 ## Relevant Specifications of the Final Iteration
 
-The pliers feature an 80 mm jaw length, measured along the inner face from the tip to the lowest point before the hinge. The top 55 mm of each jaw is printed in TPU for flexibility and enhanced grip, while the lower section and legs are PLA for rigidity and strength. The internal square spring is composed of TPU, providing the necessary flex for operation. The jaw rests at a 14.14 mm open position.
+- Jaws have an internal face length of 29 mm and a depth of 10 mm.
+- TPU flexibility allows the jaws to close over a surface area instead of a single contact point.
+- A -0.05 mm offset on the TPU dovetail triangle faces enabled proper clearance fit.
+- At rest, the jaws remain 8.29 mm apart.
 
-Design parameters, including the flexible square dimensions, dovetail triangle size, key distances for interlocks, flexible jaw length, and extrusion height, were implemented to streamline the iterative CAD process. The dovetail interlock was designed using the rectangular pattern sketch feature and was designed with a 0.1 mm clearance fit. To maximize grip, 55 1 mm equilateral triangles were added to the internal face of the TPU section of plier tip. This was designed using the pattern along path body feature. The final printed model was scaled to 75% of the CAD size. Additional dimensions and parameters are viewable in the gallery section and CAD drawings. A 5 mm fillet was added to the vertical edges of the circle cut and a 10 mm fillet to the vertical edges of the plier body.
+<figure style="text-align:center;">
+  <img src="/assets/img/squarefinal.png" alt="Alternate Infill Percentages of Internal Flexible Square" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
+  <figcaption style="margin-top:8px; font-weight:600;">Alternate Infill Percentages of Internal Flexible Square</figcaption>
+</figure>
+
+---
 
 ## Print Settings for All Iterations
 
