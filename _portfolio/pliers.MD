@@ -40,24 +40,84 @@ Surface energy, the energy required to create or maintain a material’s surface
 # Design
 
 ## Iterative Process
+
+### Iteration 1
+
+#### About the Design
+
+#### Images of Iteration 1
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/iteration1.png" alt="First Iteration"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  </figure>
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/iteration1closed.png" alt="First Iteration Closed"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  </figure>
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/squareinitial.png" alt="First Iteration of Flexible Component"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  </figure>
+
+### Iteration 2
+
+#### About the Design
+
+#### Images of Iteration 2
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/iteration2.png" alt="Second Iteration"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  </figure>
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/iteration2closed.png" alt="Second Iteration Closed"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  </figure>
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/tip2.png" alt="Second Iteration of Tips"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  </figure>
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/square2.png" alt="Second Iteration of Flexible Component"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  </figure>
+
+## Design of the Final Iteration
 INSERT DESCRIPTION
 
-## About the Design
+## Spring Component Creation of the Final Iteration
 INSERT DESCRIPTION
 
-## Spring Component Creation
-INSERT DESCRIPTION
-
-## Spring Component Performance
+## Spring Component Performance of the Final Iteration
 INSERT DESCRIPTION...what material is used
 
-## Relevant Specifications
+## Relevant Specifications of the Final Iteration
 
 The pliers feature an 80 mm jaw length, measured along the inner face from the tip to the lowest point before the hinge. The top 55 mm of each jaw is printed in TPU for flexibility and enhanced grip, while the lower section and legs are PLA for rigidity and strength. The internal square spring is composed of TPU, providing the necessary flex for operation. The jaw rests at a 14.14 mm open position.
 
 Design parameters, including the flexible square dimensions, dovetail triangle size, key distances for interlocks, flexible jaw length, and extrusion height, were implemented to streamline the iterative CAD process. The dovetail interlock was designed using the rectangular pattern sketch feature and was designed with a 0.1 mm clearance fit. To maximize grip, 55 1 mm equilateral triangles were added to the internal face of the TPU section of plier tip. This was designed using the pattern along path body feature. The final printed model was scaled to 75% of the CAD size. Additional dimensions and parameters are viewable in the gallery section and CAD drawings. A 5 mm filet was added to the verticle edges of the circle cut and a 10 mm filet was added to the verticle edges of the plier body.
 
-## Print Settings
+## Print Settings of each Iteration
 INSERT DESCRIPTION
 
 ---
