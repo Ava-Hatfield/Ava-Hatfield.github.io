@@ -8,7 +8,7 @@ header:
   teaser: /assets/img/plierthumbnail.png
 ---
 
-The multimaterial needle-nose pliers are a functional prototype designed to grip and manipulate small components with precision. Applications include assembly INSERT APPLICATIONS!!!
+The multimaterial needle-nose pliers are a print-in-place functional prototype designed to grip and manipulate small components with precision.
 
 # Introduction
 
@@ -43,6 +43,12 @@ Surface energy, the energy required to create or maintain a material’s surface
 ### Iteration 1
 
 #### About the Design
+
+The first iteration followed a common print-in-place plier design consisting of two legs and two arms made of PLA and an internal flexible square made of TPU. A key modification was the integration of TPU plier jaws, intended to enhance grip when picking up resistors.
+
+However, several issues were identified. The CAD model was initially oversized and required scaling to 75% in SuperSlicer, yet the reduced version remained too large for functional movement. The leg width also restricted the jaws’ ability to fully close (see image First Iteration Closed).
+
+Additionally, the internal flexible square was designed with edges aligned to the X and Y axes, leading the TPU grid pattern to print at an incorrect 45-degree angle and causing incorrect motion (see image First Iteration of Flexible Component). These flexible squares differed from those shown in First Iteration and First Iteration Closed. The first iteration also had no clearance between TPU and PLA components, still allowing for assembly but making separation very difficult.
 
 #### Images of Iteration 1
 
