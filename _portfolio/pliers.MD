@@ -73,6 +73,10 @@ Additionally, the internal flexible square was designed with edges aligned to th
 
 #### About the Design
 
+Iteration 2 maintained similar dimensions to the first design and was again scaled to 75% in SuperSlicer. Several modifications were made, including rotating the internal flexible TPU square by 45 degrees to achieve the correct motion orientation and adding a -0.1 mm offset to the TPU dovetail faces to provide clearance. The legs were made wider and slightly thinner to increase the plier’s closing range, and a 1 mm equilateral triangle pattern was added to the internal TPU jaw surfaces for additional grip (see image Second Iteration of Tips).
+
+Despite these adjustments, the pliers remained too large for effective functionality. From a rapid prototyping perspective, scaling in SuperSlicer prevented the pliers from being a truly parametric model. The -0.1 mm offset introduced excessive clearance, reducing visual precision, while the added jaw texture offered minimal functional benefit, as the TPU already provided sufficient grip. Additionally, the internal flexible square, printed with only three perimeters, proved too weak at this size (see image Second Iteration of Flexible Component).
+
 #### Images of Iteration 2
 
 <figure style="text-align:center;">
