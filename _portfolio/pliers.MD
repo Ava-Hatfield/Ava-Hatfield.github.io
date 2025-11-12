@@ -8,13 +8,13 @@ header:
   teaser: /assets/img/plierthumbnail.png
 ---
 
-The multimaterial needle-nose pliers are a print-in-place functional prototype designed to grip and manipulate small components with precision.
+The multimaterial needle-nose pliers are a functional prototype designed to grip and manipulate small components with precision.
 
 # Introduction
 
 ## Project Description and About Print-in-Place Parts
 
-The print-in-place (PIP) pliers are fully functional and fabricated in a single printing process without requiring extra fasteners or materials. Motion is enabled by combining rigid PLA handles and jaws with a flexible TPU spring hinge, while assembly uses a material-locking dovetail connection. This project demonstrates how multimaterial additive manufacturing and thoughtful PIP design can produce working mechanisms straight from the printer. These models rely on precise clearances and material choices, allowing hinged or moving components (whether printed together or separately with different materials) to remain distinct and mobile. The specific objective was to design needle nose pliers capable of picking up through-hole resistors, with a TPU spring that returns the jaws to the open position when not in use. This approach highlights how 3D printing can replace traditional multi-step manufacturing with a single, integrated process.
+The multimaterial pliers incorporate the essence of print-in-place (PIP) design, functioning immediately upon removal from the print bed without the need for fasteners, adhesives, or post-processing. Motion is achieved by combining rigid PLA handles and jaws with a flexible TPU spring hinge, joined through a mechanical dovetail connection. While the model operates as a fully assembled mechanism straight from printing, it differs slightly from a traditional single-material PIP design. Instead of relying on printed clearances between moving joints, motion arises from the integration of a separate flexible element, the TPU hinge, which provides elasticity and allows the jaws to return to the open position. This approach captures the functional intent of PIP manufacturing while demonstrating how multimaterial additive processes can achieve similar outcomes through mechanical and material innovation. The objective of the project was to design and print needle-nose pliers that follow print-in-place principles. The pliers were designed to pick up through-hole resistors and return to an open position when not in use.
 
 ## Specific Applications of Print-in-Place Parts
 
@@ -103,7 +103,7 @@ Despite these adjustments, the pliers remained too large for effective functiona
 
 ## Design of the Final Iteration
 
-The final iteration followed a similar overall structure to the first two but was fully redesigned in CAD to ensure accurate print dimensions. The internal flexible square was modeled with a rectangular perimeter of interlocking triangular features to form a dovetail mechanism between TPU and PLA components. The triangular jaw pattern from Iteration 2 was removed, as the TPU alone provided sufficient grip for handling resistors. The finalized plier size operated smoothly and allowed one-handed use. Multiple parameters were implemented in the CAD model to support easy scaling or refinement in future iterations (see image Plier CAD Parameters).
+The final iteration followed a similar overall structure to the first two but was fully redesigned in CAD to ensure accurate print dimensions. The internal flexible square was modeled with a rectangular perimeter of interlocking triangular features to form a dovetail mechanism between TPU and PLA components. Because the PLA and TPU components were printed separately and joined through a dovetail interface, the connection relies primarily on mechanical interlock. The TPU’s flexibility and surface friction, rather than molecular adhesion, result in a stable connection while still allowing separation. However, as mentioned earlier TPU and PLA are a popular combination for dual material extrusion. The triangular jaw pattern from Iteration 2 was removed, as the TPU alone provided sufficient grip for handling resistors. The finalized plier size operate smoothly and allow one-handed use. Multiple parameters are implemented in the CAD model to support easy scaling or refinement in future iterations (see image Plier CAD Parameters).
 
 ## Spring Component Creation and Performance of the Final Iteration
 
@@ -147,6 +147,12 @@ The internal flexible square underwent several design and print tests using vary
 | **3** | small TPU square           | 0 | 3 | grid         | 25% | 235 °C (layer 1), 230 °C (others) |
 | **3** | **small TPU square**       | **0** | **3** | **grid** | **27%** | **235 °C (layer 1), 230 °C (others)** |
 | **3** | small TPU square           | 0 | 3 | grid         | 30% | 235 °C (layer 1), 230 °C (others) |
+
+---
+
+## Potential Changes for Future Iterations
+
+Future designs could focus on improving precision, grip, and overall usability. Adding an extrusion to the inner face of both jaws would allow them to meet in parallel over a greater surface area, improving contact and control when gripping components. Reducing the overall extrusion height could make the pliers more compact and better suited for accessing tight spaces. Gaining experience with a dual-material 3D printer would also enable more seamless integration of rigid and flexible elements in a single print. Increasing the hinge’s resting angle could expand the pliers’ opening capacity for larger components. Finally, fabricating the jaws entirely from PLA for strength and then applying a dovetail-connected or coated TPU layer to the inner surfaces could combine rigidity with enhanced grip performance.
 
 ---
 
