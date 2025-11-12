@@ -126,8 +126,7 @@ The internal flexible square underwent several design and print tests using vary
 
 ## GIF of Final Iteration Working
 
-<video src="assets/img/ezgif-635096b60ad545fc.mp4" autoplay loop muted playsinline width="400"></video>
-[![Pliers demo](assets/img/pliers_thumb.png)](assets/img/ezgif-635096b60ad545fc.mp4)
+![Final Iteration Working](assets/img/ezgif-635096b60ad545fc.gif)
 
 ---
 
