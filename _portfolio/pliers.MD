@@ -115,6 +115,9 @@ The internal flexible square underwent several design and print tests using vary
 - TPU flexibility allows the jaws to close over a surface area instead of a single contact point.
 - A -0.05 mm offset on the TPU dovetail triangle faces enabled proper clearance fit.
 - At rest, the jaws remain 8.29 mm apart.
+- Jaws come to a close with a force compressing the legs in.
+- Jaws have a capacity of 18.5 mm when a force is applied to pull the legs apart.
+- The final pliers successfully picked up 10 through-hole resistors in 30 seconds.
 
 <figure style="text-align:center;">
   <img src="/assets/img/squarefinal.png" alt="Alternate Infill Percentages of Internal Flexible Square" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
