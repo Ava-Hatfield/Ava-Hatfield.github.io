@@ -124,6 +124,10 @@ The internal flexible square underwent several design and print tests using vary
   <figcaption style="margin-top:8px; font-weight:600;">Alternate Infill Percentages of Internal Flexible Square</figcaption>
 </figure>
 
+## GIF of Final Iteration Working
+
+<video src="assets/img/ezgif-635096b60ad545fc.mp4" autoplay loop muted playsinline width="400"></video>
+
 ---
 
 ## Print Settings for All Iterations
