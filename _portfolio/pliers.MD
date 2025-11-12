@@ -126,7 +126,7 @@ The internal flexible square underwent several design and print tests using vary
 
 ## GIF of Final Iteration Working
 
-![Pliers demonstration](assets/img/pliers_demo.gif)
+<img src="/assets/img/pliers_demo.gif" alt="Pliers demonstration" width="480">
 
 ---
 
