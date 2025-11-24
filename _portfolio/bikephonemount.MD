@@ -5,7 +5,7 @@ layout: single
 classes: wide
 header:
   image: /assets/img/upviewholder.png
-  teaser: /assets/img/upviewholder.png
+  teaser: /assets/img/horzviewholder.png
 ---
 
 The rotating phone holder is a functional prototype engineered to mount on a bike handlebar and provide stable, tool-free orientation changes while riding.
