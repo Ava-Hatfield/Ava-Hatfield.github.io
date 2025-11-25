@@ -74,19 +74,43 @@ talk about iterations here
 
 # Gallery of Final MultiMaterial Plier Iteration
 
+## Rendered Images
+
 <figure style="text-align:center;">
-  <img src="/assets/img/pliersfinal.png" alt="Final Iteration of MultiMaterial Pliers" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
-  <figcaption style="margin-top:8px; font-weight:600;">Final Iteration of MultiMaterial Pliers</figcaption>
+  <img src="/assets/img/assemblyrender.png" alt="Render of Phone Holder" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
+  <figcaption style="margin-top:8px; font-weight:600;">Render of Phone Holder</figcaption>
 </figure>
 
 <figure style="text-align:center;">
-  <img src="/assets/img/finalparameterplier.png" alt="Plier CAD Parameters" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
-  <figcaption style="margin-top:8px; font-weight:600;">Plier CAD Parameters</figcaption>
+  <img src="/assets/img/barrender.png" alt="Individual Top-Down Component ~ Handle Bars" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
+  <figcaption style="margin-top:8px; font-weight:600;">Individual Top-Down Component ~ Handle Bars</figcaption>
 </figure>
 
 <figure style="text-align:center;">
-  <img src="/assets/img/finalcaddrawplier.png" alt="Final Iteration CAD Drawing" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
-  <figcaption style="margin-top:8px; font-weight:600;">Final Iteration CAD Drawing</figcaption>
+  <img src="/assets/img/griprender.png" alt="Individual Top-Down Component ~ Phone Grip and Rotation Mechanism" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
+  <figcaption style="margin-top:8px; font-weight:600;">Individual Top-Down Component ~ Phone Grip and Rotation Mechanism</figcaption>
+</figure>
+
+<figure style="text-align:center;">
+  <img src="/assets/img/mountrender.png" alt="Individual Top-Down Component ~ Phone Holder Mount" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
+  <figcaption style="margin-top:8px; font-weight:600;">Individual Top-Down Component ~ Phone Holder Mount</figcaption>
+</figure>
+
+## Additional Images
+
+<figure style="text-align:center;">
+  <img src="/assets/img/reallifeholder.png" alt="Holder in Use" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
+  <figcaption style="margin-top:8px; font-weight:600;">Holder in Use</figcaption>
+</figure>
+
+<figure style="text-align:center;">
+  <img src="/assets/img/mechanism.png" alt="Rotation Mechanism Render" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
+  <figcaption style="margin-top:8px; font-weight:600;">Rotation Mechanism Render</figcaption>
+</figure>
+
+<figure style="text-align:center;">
+  <img src="/assets/img/mechanismcrosssection.png" alt="Cross Section View Displaying Rotation Mechanism" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
+  <figcaption style="margin-top:8px; font-weight:600;">Cross Section View Displaying Rotation Mechanism</figcaption>
 </figure>
 
 ---
