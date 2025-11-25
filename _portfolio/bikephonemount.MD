@@ -122,7 +122,7 @@ talk about iterations here
 
 # GIF of Phone Holder Rotating
 
-<img src="/assets/img/pliers_demo.gif" alt="Phone Holder Demonstration" width="480">
+<img src="/assets/img/IMG_7103.gif" alt="Phone Holder Demonstration" width="480">
 
 ---
 
