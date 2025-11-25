@@ -120,6 +120,12 @@ talk about iterations here
 
 ---
 
+# GIF of Phone Holder Rotating
+
+<img src="/assets/img/pliers_demo.gif" alt="Phone Holder Demonstration" width="480">
+
+---
+
 # How to Operate the MultiMaterial Pliers
 
 1. **Design the Model:** Create the plier assembly in CAD using parametric dimensions to streamline the iterative process.  
