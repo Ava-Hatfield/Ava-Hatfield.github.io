@@ -87,8 +87,13 @@ talk about iterations here
 </figure>
 
 <figure style="text-align:center;">
-  <img src="/assets/img/griprender.png" alt="Individual Top-Down Component ~ Phone Grip and Rotation Mechanism" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
-  <figcaption style="margin-top:8px; font-weight:600;">Individual Top-Down Component ~ Phone Grip and Rotation Mechanism</figcaption>
+  <img src="/assets/img/griprender.png" alt="Individual Top-Down Component ~ Phone Grip and Rotation Mechanism Front View" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
+  <figcaption style="margin-top:8px; font-weight:600;">Individual Top-Down Component ~ Phone Grip and Rotation Mechanism Front View</figcaption>
+</figure>
+
+<figure style="text-align:center;">
+  <img src="/assets/img/gripbackrender.png" alt="Individual Top-Down Component ~ Phone Grip and Rotation Mechanism Back View" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
+  <figcaption style="margin-top:8px; font-weight:600;">Individual Top-Down Component ~ Phone Grip and Rotation Mechanism Back View</figcaption>
 </figure>
 
 <figure style="text-align:center;">
@@ -104,8 +109,8 @@ talk about iterations here
 </figure>
 
 <figure style="text-align:center;">
-  <img src="/assets/img/mechanism.png" alt="Rotation Mechanism Render" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
-  <figcaption style="margin-top:8px; font-weight:600;">Rotation Mechanism Render</figcaption>
+  <img src="/assets/img/mechanism.png" alt="Rotation Mechanism" style="max-width:100%; height:auto; border:1px solid #eee; padding:6px;">
+  <figcaption style="margin-top:8px; font-weight:600;">Rotation Mechanism</figcaption>
 </figure>
 
 <figure style="text-align:center;">
