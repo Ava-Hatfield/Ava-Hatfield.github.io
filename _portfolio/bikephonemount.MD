@@ -139,9 +139,11 @@ Several print iterations were required to refine material choices, component geo
 
 # How to Operate the MultiMaterial Pliers
 
-1. **Design the Model:** Create the plier assembly in CAD using parametric dimensions to streamline the iterative process.  
-2. **Set Clearances:** Apply a 0.05 mm clearance to all interlocking and rotating features to ensure a fit between printed components.  
-3. **Prepare for Printing:** Export the design as a multi-body file (STL or 3MF) and import it into SuperSlicer. For each print, delete the components that are not relevant to the selected material (PLA or TPU).  
-4. **3D Print:** Print PLA components on one printer for rigid parts and TPU components on a separate printer for flexible parts. For flexible sections, use a grid infill pattern, remove top and bottom layers, and adjust infill percentage to tune flexibility.  
-5. **Assemble and Test Fit:** After printing, align the PLA and TPU sections and verify the dovetail interlock and spring fit properly.  
-6. **Operate the Pliers:** Compress the PLA handles to close the TPU-tipped jaws, using the TPU square spring to reopen the pliers upon release.
+1. Install all eight M3 heat-set inserts into their designated locations.
+2. Place the spring and 8 mm ball into the detent pocket at the base of the mount.
+3. Insert the rotating cylinder above the spring-and-ball mechanism.
+4. Position the mount cover over the cylinder and secure it to the mount base using four M3×10 screws.
+5. Attach the phone case to the rotating cylinder using two M3×6 screws.
+6. Join the mount base post to the top fastener with two M3×6 screws.
+7. Fasten the assembly to the handlebars by securing the top and bottom fastener pieces together with two M3×10 screws and two M3 nuts, tightening to the desired fit.
+8. Insert the phone into the holder and rotate it 90° counterclockwise (vertical → horizontal) or 90° clockwise (horizontal → vertical) to switch orientations.
