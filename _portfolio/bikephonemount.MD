@@ -83,7 +83,7 @@ Several print iterations were required to refine material choices, component geo
 
 ---
 
-# Gallery of Final MultiMaterial Plier Iteration
+# Gallery of Final Phone Holder Iteration
 
 ## Rendered Images
 
@@ -137,7 +137,7 @@ Several print iterations were required to refine material choices, component geo
 
 ---
 
-# How to Operate the MultiMaterial Pliers
+# How to Assemble and Use the Phone Holder
 
 1. Install all eight M3 heat-set inserts into their designated locations.
 2. Place the spring and 8 mm ball into the detent pocket at the base of the mount.
