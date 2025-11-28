@@ -22,7 +22,7 @@ feature_row:
     alt: "MultiMaterial Pliers"
     title: "MultiMaterial Pliers Iterative Design and Performance"
     excerpt: "Designed for precise gripping and flexible motion through integrated rigid and elastic materials."
-  - image_path: assets/img/upviewholder.png
+  - image_path: assets/img/horzviewholder.png
     alt: "Bike Phone Mount"
     title: "Bike Phone Mount Design and Assembly"
     excerpt: "Designed for secure, tool-free phone mounting with smooth detented rotation between orientations."
