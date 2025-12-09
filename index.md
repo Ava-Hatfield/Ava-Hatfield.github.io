@@ -26,6 +26,10 @@ feature_row:
     alt: "Bike Phone Mount"
     title: "Bike Phone Mount Design and Assembly"
     excerpt: "Designed for secure, tool-free phone mounting with smooth detented rotation between orientations."
+  - image_path: assets/img/horzviewholder.png
+    alt: "Generative Design Truck Hangar"
+    title: "Truck Hangar Generative Design"
+    excerpt: "Lightweighted truck hanger with an integrated motor mount, featuring generative-design-optimized load paths."
 
 ---
 
