@@ -47,21 +47,28 @@ xx
 
 ## Determining the Applied Forces
 
-xx
+| Force Name | Reason for Application | Points of Contact | Direction of Force | Magnitude of Force | Verbal Calculation of Force | Numerical Calculation of Force |
+|------------|------------------------|-------------------|-------------------|-------------------|----------------------------|--------------------------------|
+| Gravity | Force of gravity | N/A | Normal force perpendicular to the ground | 9.807 m/s² | Gravitational acceleration | 9.807 m/s² |
+| Force3 | Force of board + person on top (landing impact) | 4 contact points on truck hangars | Normal force to skateboard | 200 N per contact | (mass rider + mass board) × impact factor × gravity / 2 truck hangars / 4 contact points | (75 + 5) kg × 2 × 9.81 m/s² / (2 × 4) = 200 N per contact |
+| Moment2 | Motor torque | Motor mount | Opposing moment force opposite to motor rotation direction | 8 N·m | From motor specification sheet | 8 N·m |
+| Force5 | Lateral steering/turning reaction force at each wheel end | Wheel axle ends | Parallel to ground, perpendicular to rod in opposite directions at either end | 20 N and 20 N | Estimated from side load during normal rider steering input and wheel-ground interaction in typical carving/turning | ~20 N per wheel axle end |
+| Remote Force2 | Motor tangential force | Pulley location (~18 mm from motor mount) | Tangential to perimeter of motor mount | 560 N | Torque of motor / radius of motor | 8 N·m / 0.0143239 m = 560 N |
+| Remote Force3 | Weight of motor | Center of gravity of motor (~37 mm from motor mount) | Downward (gravity) | 9 N | Weight of motor × force of gravity | 0.85 kg × 9.8 m/s² ≈ 9 N |
 
 ## Structural Constraint Placement and Affect
 
-## Comparing the Resulting Designs
-
 ---
 
-### Aluminum
+# Comparing Generative Design Results for Different Materials
 
-#### Interactive CAD Model
+## Aluminum
+
+### Interactive CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811af936bc1b7a61644?mode=embed" width="640" height="480" allowfullscreen frameborder="0"></iframe>
 
-#### Rendering of Truck Assembly
+### Rendering of Truck Assembly
 
 <div style="display:block;">
   <figure style="margin:0 0 1.5rem 0; text-align:center;">
@@ -87,15 +94,13 @@ xx
   </figure>
 </div>
 
----
+## Nylon
 
-### Nylon
-
-#### Interactive CAD Model
+### Interactive CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811734ec732e30cb436?mode=embed" width="640" height="480" allowfullscreen frameborder="0"></iframe>
 
-#### Rendering of Truck Assembly
+### Rendering of Truck Assembly
 
 <div style="display:block;">
   <figure style="margin:0 0 1.5rem 0; text-align:center;">
@@ -121,15 +126,13 @@ xx
   </figure>
 </div>
 
----
+## Steel
 
-### Steel
-
-#### Interactive CAD Model
+### Interactive CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811c597e1b39a3e8b09?mode=embed" width="640" height="480" allowfullscreen frameborder="0"></iframe>
 
-#### Rendering of Truck Assembly
+### Rendering of Truck Assembly
 
 <div style="display:block;">
   <figure style="margin:0 0 1.5rem 0; text-align:center;">
