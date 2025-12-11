@@ -176,11 +176,17 @@ Aesthetically and structurally, the steel generative model was the most efficien
 
 # Generative Design Critique
 
-## How is Generative Design Really Useful
-
 ## Drawbacks of Generative Design
 
+While generative design offers powerful exploration and automation capabilities, it also comes with notable limitations. The quality of the output is entirely dependent on the accuracy of the user-defined constraints, load cases, and material selections. Poorly defined boundary conditions can produce unrealistic or unusable results. The geometries produced are often highly organic and can be difficult or impossible to manufacture using traditional processes, restricting viable options to advanced methods like powder printing. Generative design is also computationally intensive, frequently requiring long cloud-solve times and multiple iterations to converge on a usable outcome. Finally, the workflow can be tedious: setting up preserved bodies, obstacles, load cases, and manufacturing constraints requires significant domain knowledge in both engineering physics and CAD modeling.
+
+## How is Generative Design Really Useful
+
+Generative design is most valuable as an exploration tool that expands the designer’s solution space beyond what is typically achievable through manual CAD modeling. Instead of iterating through a few hand-crafted concepts, the software evaluates dozens of structurally valid geometries based on real engineering constraints, loads, and manufacturing methods. This enables rapid identification of unconventional yet high-performance designs, highlights load paths that may not be intuitive, and provides strong starting points for engineered components. Its ability to integrate performance, material, and manufacturing requirements early in the design process helps teams reach mathematically optimized designs faster.
+
 ## Most Useful Applications of Generative Design
+
+Generative design is most effective when the goals are reducing weight, improving structural efficiency, or combining parts. It’s widely used in aerospace, automotive, robotics, and consumer products—industries that benefit from lighter, more efficient designs and simpler manufacturing. The approach works especially well with additive manufacturing, where complex, organic geometries can be produced without traditional tooling limits. Beyond structural components, it’s also useful for parts like cooling channels, brackets, frames, and housings that need high stiffness/weight ratios and optimized material use.
 
 ---
 
