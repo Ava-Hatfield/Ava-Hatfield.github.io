@@ -21,10 +21,17 @@ Powder bed fusion, whether polymer SLS or metal SLS, complements this by enablin
 For applications in industry, the generative design and powder bed fusion paired workflow supports rapid iteration, functional prototyping, and production of structurally efficient components with specific mechanical behavior. This makes the combination especially valuable for projects like the longboard truck hanger, where the goal is to minimize mass, maintain strength under loads in multiple directions, and reduce the number of parts required for assembly.
 
 ## Applications of Generative Design and Powder Bed Fusion in Industry
-xx
 
-## Commercial Use of Generative Design
-insert research ([source](insert)).
+Generative design paired with powder bed fusion is increasingly adopted in industries where high strength-to-weight ratios, complex geometry, and material efficiency directly affect performance and cost. These technologies are especially valuable in sectors producing large quantities of components, where reducing material use or improving thermal performance can increase profit margins and decrease production time.
+
+In aerospace, generative design has enabled part consolidation and lightweighting, such as Airbus’s optimized A23 aircraft bracket that achieved more than 50% weight reduction through GD and metal additive manufacturing ([source](https://www.numberanalytics.com/blog/mastering-generative-design-3d-printing)). In the medical sector, Zimmer Biomet uses generative design to fabricate patient-specific implants that better match anatomical geometry ([source](https://www.numberanalytics.com/blog/mastering-generative-design-3d-printing)).
+
+Thermal management applications also benefit from this pairing. Cold plates designed with generative microchannel routing have demonstrated 55% reductions in thermal resistance when produced using laser powder bed fusion, improving system-level power usage effectiveness ([source](https://www.gknpm.com/en/technologies/metal-additive-manufacturing/)).
+Consumer goods companies have leveraged generative design and additive manufacturing to optimize comfort and performance. 
+
+New Balance developed a 3D-printed cushioned midsole that tailors stiffness according to pressure-map data from individual runners, enhancing both support and comfort (([source]https://www.tek4s.com/post/solidworks-generative-design)).
+
+In architecture and infrastructure, generative design enables structurally efficient, visually distinctive forms. The Qatar National Convention Centre’s entrance structure uses generative principles to achieve both functional support and aesthetic reference to culturally significant trees ([source](https://digitaldesignnetwork.org/news/modern-uses-of-generative-design/)). Finally, the stainless-steel pedestrian bridge installed over a canal in Amsterdam was generatively optimized to be as lightweight as possible while withstanding predicted loads, then produced using large-scale metal additive manufacturing ([source](https://digitaldesignnetwork.org/news/modern-uses-of-generative-design/)).
 
 ---
 
