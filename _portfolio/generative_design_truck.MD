@@ -8,18 +8,15 @@ header:
   teaser: /assets/img/ufluidic.png
 ---
 <style>
+/* Expand only the outer containers */
 .page,
-.page__content,
 .wrapper,
 .page__inner-wrap {
   max-width: 100% !important;
   width: 100% !important;
 }
 
-.page__content {
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
+/* Do NOT modify .page__content — that keeps images behaving normally */
 </style>
 ---
 
