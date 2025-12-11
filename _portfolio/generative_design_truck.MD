@@ -6,6 +6,7 @@ classes: full
 header:
   image: /assets/img/ufluidic.png
   teaser: /assets/img/ufluidic.png
+---
 <style>
 .page,
 .page__content,
