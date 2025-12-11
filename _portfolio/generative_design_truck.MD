@@ -7,18 +7,6 @@ header:
   image: /assets/img/ufluidic.png
   teaser: /assets/img/ufluidic.png
 ---
-<style>
-/* Expand only the outer containers */
-.page,
-.wrapper,
-.page__inner-wrap {
-  max-width: 100% !important;
-  width: 100% !important;
-}
-
-/* Do NOT modify .page__content — that keeps images behaving normally */
-</style>
----
 
 The generative-design truck hanger is a structural longboard component engineered to support wheels, transmit motor torque, and integrate the motor mount into a single lightweight geometry.
 
