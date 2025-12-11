@@ -15,7 +15,12 @@ The generative-design truck hanger is a structural longboard component engineere
 # Generative Design 
 
 ## Generative Design and Powder Bed Fusion
-xx
+
+The pairing of generative design with powder bed fusion is uniquely effective because both technologies remove traditional manufacturing constraints and allow engineers to create parts that prioritize performance rather than manufacturability. Generative design uses simulation-driven optimization to create geometries that route loads efficiently, minimize mass, and consolidate multi-piece assemblies into a single component. These organic, lattice-like shapes are often impossible or very difficult to fabricate using subtractive machining or molding.
+
+Powder bed fusion, whether polymer SLS or metal SLS, complements this by enabling the production of precise, highly complex geometries without support structures embedded inside the part. Since powder bed fusion builds parts layer by layer within a powder bed, it can fabricate the irregular internal channels, filleted load paths, and organic material networks that generative design commonly produces. This allows designers to unify multiple components into one structure, reduce assembly weight, and optimize stiffness/mass ratios in ways that conventional manufacturing cannot achieve.
+
+For applications in industry, the generative design and powder bed fusion paired workflow supports rapid iteration, functional prototyping, and production of structurally efficient components with specific mechanical behavior. This makes the combination especially valuable for projects like the longboard truck hanger, where the goal is to minimize mass, maintain strength under loads in multiple directions, and reduce the number of parts required for assembly.
 
 ## Applications of Generative Design and Powder Bed Fusion in Industry
 xx
