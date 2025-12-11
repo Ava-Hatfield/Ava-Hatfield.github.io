@@ -47,25 +47,88 @@ xx
 
 #### Interactive CAD Model
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281172102ed9f100e990?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811af936bc1b7a61644?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 #### Rendering of Truck Assembly
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/Aluminum Assembly Front Render.png" alt="Aluminum Assembly Render"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Aluminum Assembly Render</figcaption>
+  </figure>
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/Aluminum Design Front Render.png" alt="Aluminum Front Render"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Aluminum Front Render</figcaption>
+  </figure>
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/Aluminum Design Render Back.png" alt="Aluminum Back Render"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Aluminum Back Render</figcaption>
+  </figure>
 
 ### Nylon
 
 #### Interactive CAD Model
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281172102ed9f100e990?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811734ec732e30cb436?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 #### Rendering of Truck Assembly
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/Nylon Assembly Render.png" alt="Nylon Assembly Render"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Nylon Assembly Render</figcaption>
+  </figure>
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/Nylon Final Design Front Render.png" alt="Nylon Front Render"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Nylon Front Render</figcaption>
+  </figure>
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/Nylon Final Design Back Render.png" alt="Nylon Back Render"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Nylon Back Render</figcaption>
+  </figure>
 
 ### Steel
 
 #### Interactive CAD Model
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281172102ed9f100e990?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811c597e1b39a3e8b09?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 #### Rendering of Truck Assembly
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/Steel Assembly Render.png" alt="Steel Assembly Render"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Steel Assembly Render</figcaption>
+  </figure>
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/Steel Final Design Front Render.png" alt="Steel Front Render"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
+  </figure>
+
+<div style="display:block;">
+  <figure style="margin:0 0 1.5rem 0; text-align:center;">
+    <img src="/assets/img/Steel Final Design Back Render.png" alt="Steel Back Render"
+         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
+    <figcaption style="margin-top:8px; font-weight:600;">Steel Back Render</figcaption>
+  </figure>
 
 ---
 
@@ -87,36 +150,5 @@ xx
          style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
     <figcaption style="margin-top:8px; font-weight:600;">Resin Printed Mold</figcaption>
   </figure>
-
-  <figure style="margin:0 0 1.5rem 0; text-align:center;">
-    <img src="/assets/img/plasmaTreating.jpg" alt="Plasma Treating Process"
-         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
-    <figcaption style="margin-top:8px; font-weight:600;">Plasma Treating Process</figcaption>
-  </figure>
-
-  <figure style="margin:0 0 1.5rem 0; text-align:center;">
-    <img src="/assets/img/updatedCAD.png" alt="Resin Print Mold CAD Drawing"
-         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
-    <figcaption style="margin-top:8px; font-weight:600;">Updated CAD Model</figcaption>
-  </figure>
-
-  <figure style="margin:0 0 1.5rem 0; text-align:center;">
-    <img src="/assets/img/parametersCAD.png" alt="CAD Model Parameters"
-         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
-    <figcaption style="margin-top:8px; font-weight:600;">CAD Model Parameters</figcaption>
-  </figure>
-
-  <figure style="margin:0 0 1.5rem 0; text-align:center;">
-    <img src="/assets/img/printandmold.png" alt="Device and Mold"
-         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
-    <figcaption style="margin-top:8px; font-weight:600;">Device and Mold</figcaption>
-  </figure>
-
-  <figure style="margin:0 0 1.5rem 0; text-align:center;">
-    <img src="/assets/img/device.png" alt="Device"
-         style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px; display:block; margin:auto;">
-    <figcaption style="margin-top:8px; font-weight:600;">Device</figcaption>
-  </figure>
-</div>
 
 ---
