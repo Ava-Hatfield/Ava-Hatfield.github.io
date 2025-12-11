@@ -39,11 +39,17 @@ In architecture and infrastructure, generative design enables structurally effic
 
 ## Importance of Load Cases
 
-xx
+Load cases are a critical aspect of generative design because they define how a part interacts with the forces and constraints it will experience in the real world. Properly defining load cases ensures that the software generates a design that is not only structurally sound but also optimized for performance, weight, and material usage.
+
+In generative design, multiple load cases allow engineers to simulate different scenarios such as static loads, impacts, torsion, bending, lateral forces, or motor-driven forces. Each load case represents a real-world application, and together they ensure the resulting geometry can withstand all expected conditions. For example, a skateboard truck must handle the weight of the rider, lateral forces during turns, torque from the motor, and impacts from landing jumps. By defining each as a separate load case, the software can reinforce critical regions and remove unnecessary material elsewhere.
+
+Without accurate load cases, generative design can produce parts that fail under realistic conditions. Conversely, when loads are carefully applied with proper constraints and objectives, the software identifies optimal load paths, highlights critical stress regions, and provides robust, manufacturable designs. Load cases also enable the evaluation of performance under different orientations, magnitudes, or combinations of forces, giving designers confidence in the safety and functionality of the final part.
 
 ## How to Improve the Process of Applying Proper Load Cases
 
-xx
+Applying accurate load cases requires a deep understanding of the physics behind the part and its real-world application. For example, defining the loads on a skateboard truck hanger involved precise calculations and careful placement to ensure the generative design produced a functional and reliable geometry. The process is inherently tedious, as generative design software relies on highly accurate input to generate valid outcomes.
+
+To improve this workflow, future tools could incorporate AI-assisted guidance that helps the designer identify critical load paths, suggests realistic force magnitudes and directions, and provides instructional feedback on the physics of the system. Additionally, enabling simulations over a range of load conditions simultaneously would allow engineers to visualize how the part performs under varying real-world scenarios, rather than relying on discrete single-case simulations. Other potential improvements include automated detection of symmetry to reduce modeling effort, and smarter default load placement based on component geometry.
 
 ## Determining the Applied Forces
 
@@ -57,6 +63,10 @@ xx
 | Remote Force3 | Weight of motor | Center of gravity of motor (~37 mm from motor mount) | Downward (gravity) | 9 N | Weight of motor × force of gravity | 0.85 kg × 9.8 m/s² ≈ 9 N |
 
 ## Structural Constraint Placement and Affect
+
+Structural constraints in generative design define how a part is fixed in space and how it interacts with other components. Proper placement of these constraints is essential, as they guide the software in reinforcing areas that must resist movement and allow material to be removed from regions that can deform safely. Constraints ensure the generated geometry responds realistically to applied loads and prevents unrealistic deflections or stress concentrations.
+
+In the truck hangar model, the structural constraint was placed at the pinhole, as this is the point in the skateboard truck hanger that will not move at all.
 
 ---
 
