@@ -195,78 +195,73 @@ Generative design is most effective when the goals are reducing weight, improvin
 ## Aluminum Design PLA Print
 
 <div style="display:block; text-align:center;">
-  <img src="/assets/img/PLA Front.HEIC" alt="Resin Printed Mold"
+  <img src="/assets/img/13a.png" alt="Resin Printed Mold"
        style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px;">
 </div>
 
 ## Aluminum Design Powder Print
 
 <div style="display:block; text-align:center;">
-  <img src="/assets/img/Aluminum Powder Front.HEIC" alt="Resin Printed Mold"
+  <img src="/assets/img/6a.png" alt="Resin Printed Mold"
        style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px;">
 </div>
 
 <div style="display:block; text-align:center;">
-  <img src="/assets/img/Aluminum Powder 1.HEIC" alt="Resin Printed Mold"
+  <img src="/assets/img/7a.png" alt="Resin Printed Mold"
        style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px;">
 </div>
 
 <div style="display:block; text-align:center;">
-  <img src="/assets/img/Aluminum Powder 2.HEIC" alt="Resin Printed Mold"
+  <img src="/assets/img/8a.png" alt="Resin Printed Mold"
        style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px;">
 </div>
 
 <div style="display:block; text-align:center;">
-  <img src="/assets/img/Aluminum Powder 3.HEIC" alt="Resin Printed Mold"
+  <img src="/assets/img/9a.png" alt="Resin Printed Mold"
        style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px;">
 </div>
 
 <div style="display:block; text-align:center;">
-  <img src="/assets/img/Aluminum Powder 4.HEIC" alt="Resin Printed Mold"
-       style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px;">
-</div>
-
-<div style="display:block; text-align:center;">
-  <img src="/assets/img/Name.HEIC" alt="Resin Printed Mold"
+  <img src="/assets/img/3a.png" alt="Resin Printed Mold"
        style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px;">
 </div>
 
 ## Steel Design Powder Print
 
 <div style="display:block; text-align:center;">
-  <img src="/assets/img/Steel Powder 1.HEIC" alt="Resin Printed Mold"
+  <img src="/assets/img/11a.png" alt="Resin Printed Mold"
        style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px;">
 </div>
 
 <div style="display:block; text-align:center;">
-  <img src="/assets/img/Steel Powder 2.HEIC" alt="Resin Printed Mold"
+  <img src="/assets/img/10a.png" alt="Resin Printed Mold"
        style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px;">
 </div>
 
 <div style="display:block; text-align:center;">
-  <img src="/assets/img/Steel Powder 3.HEIC" alt="Resin Printed Mold"
+  <img src="/assets/img/5a.png" alt="Resin Printed Mold"
        style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px;">
 </div>
 
 <div style="display:block; text-align:center;">
-  <img src="/assets/img/Steel Powder 4.HEIC" alt="Resin Printed Mold"
+  <img src="/assets/img/4a.png" alt="Resin Printed Mold"
        style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px;">
 </div>
 
 <div style="display:block; text-align:center;">
-  <img src="/assets/img/Steel Powder 5.HEIC" alt="Resin Printed Mold"
+  <img src="/assets/img/12a.png" alt="Resin Printed Mold"
        style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px;">
 </div>
 
 ## Steel and Aluminum Powder Print Comparison
 
 <div style="display:block; text-align:center;">
-  <img src="/assets/img/Both front.HEIC" alt="Resin Printed Mold"
+  <img src="/assets/img/1a.png" alt="Resin Printed Mold"
        style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px;">
 </div>
 
 <div style="display:block; text-align:center;">
-  <img src="/assets/img/Both back.HEIC" alt="Resin Printed Mold"
+  <img src="/assets/img/2a.png" alt="Resin Printed Mold"
        style="width:100%; height:400px; object-fit:cover; border:1px solid #eee; padding:6px;">
 </div>
 
