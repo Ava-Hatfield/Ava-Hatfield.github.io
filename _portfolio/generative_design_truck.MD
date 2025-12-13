@@ -4,8 +4,8 @@ excerpt: "Generative-design SLS truck hanger with integrated motor mount optimiz
 layout: single
 classes: full
 header:
-  image: /assets/img/ufluidic.png
-  teaser: /assets/img/ufluidic.png
+  image: /assets/img/11a.png
+  teaser: /assets/img/11a.png
 ---
 
 The generative-design truck hanger is a structural longboard component engineered to support wheels, transmit motor torque, and integrate the motor mount into a single lightweight geometry.
